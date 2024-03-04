@@ -1,0 +1,186 @@
+# Translation of Themes - Coffee Block in Russian
+# This file is distributed under the same license as the Themes - Coffee Block package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-08-11 07:10:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.7\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Coffee Block\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Coffee Block makes use of full screen editing options given by Gutenberg block editor. Coffee block template can be used for cafe, tea, milk, roasters, bakeries, restaurants, eateries, food, chef, cuisines, bar, drinking, dining, recipe, muffins, chocolates, pastries, sandwiches, pizza, bistro, barista, cafeteria, roastery, beverage, roasters, coffeehouse and others. WooCommerce friendly, contact form 7 compatible for call to action and SEO plugins friendly. Easy to use, customize, responsive and flexible and scalable."
+msgstr "Coffee Block использует параметры полноэкранного редактирования, предоставляемые редактором блоков Gutenberg. Шаблон кофейного блока можно использовать для кафе, чая, молока, ростеров, пекарен, ресторанов, закусочных, еды, шеф-повара, кухни, бара, питья, столовой, рецепта, кексов, шоколада, выпечки, бутербродов, пиццы, бистро, бариста, кафетерия , жаровня, напитки, ростеры, кофейня и другие. Подходит для WooCommerce, совместим с контактной формой 7 для призыва к действию и оптимизирован для SEO-плагинов. Простой в использовании, настраиваемый, отзывчивый, гибкий и масштабируемый."
+
+#. Theme Name of the theme
+#: includes/block-patterns.php:10
+#, gp-priority: high
+msgid "Coffee Block"
+msgstr "Coffee Block"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Подвал"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Background Header"
+msgstr "Фон заголовка"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Transparent Header"
+msgstr "Прозрачный заголовок"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Full Width"
+msgstr "Во всю ширину"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "Пустой"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Третичный"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Вторичный"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Основной"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Фон"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Передний план"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Oswald"
+msgstr "Oswald"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr "Poppins"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Double Extra Large"
+msgstr "Двойной очень большой"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Очень большой"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Большой"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Средний"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Маленький"
+
+#: includes/patterns/coffee-block-header.php
+msgctxt "Pattern title"
+msgid "Transparent Header"
+msgstr "Прозрачный заголовок"
+
+#: includes/patterns/coffee-block-footer.php
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr "Подвал"
+
+#: includes/patterns/coffee-block-background-header.php
+msgctxt "Pattern title"
+msgid "Background Header"
+msgstr "Фон заголовка"
+
+#: includes/patterns/coffee-block-with-post-title.php:7
+msgid "Cover With Post title"
+msgstr "Обложка с названием записи"
+
+#: includes/patterns/coffee-block-with-heading-title.php:7
+msgid "Cover With Heading title"
+msgstr "Обложка с названием заголовка"
+
+#: includes/patterns/coffee-block-with-archive-title.php:6
+msgid "Cover With Archive title"
+msgstr "Обложка с названием архива"
+
+#: includes/patterns/coffee-block-section11.php:6
+msgid "Our Clients"
+msgstr "Наши клиенты"
+
+#: includes/patterns/coffee-block-section4.php:6
+msgid "Our Products"
+msgstr "Наши продукты"
+
+#: includes/patterns/coffee-block-section3.php:6
+msgid "What We Do"
+msgstr "Наша специализация"
+
+#: includes/patterns/coffee-block-section2.php:6
+msgid "About Company"
+msgstr "О компании"
+
+#: includes/patterns/coffee-block-section1.php:6
+msgid "How We Prepare Our Coffee Beans"
+msgstr "Как мы готовим кофейные зёрна"
+
+#: includes/patterns/coffee-block-hero-banner.php:6
+msgid "Hero Banner"
+msgstr "Баннер Hero"
+
+#: includes/patterns/coffee-block-header.php:15
+msgid "Transparent Header"
+msgstr "Прозрачный заголовок"
+
+#: includes/patterns/coffee-block-footer.php:8
+msgid "Footer"
+msgstr "Подвал"
+
+#: includes/patterns/coffee-block-background-header.php:15
+msgid "Background Header"
+msgstr "Фон заголовка"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.sktthemes.org"
+msgstr "https://www.sktthemes.org"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "SKT Themes"
+msgstr "SKT Themes"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://www.sktthemes.org/shop/free-coffee-shop-wordpress-theme"
+msgstr "https://www.sktthemes.org/shop/free-coffee-shop-wordpress-theme"

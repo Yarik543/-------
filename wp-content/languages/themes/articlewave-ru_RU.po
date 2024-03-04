@@ -1,0 +1,1529 @@
+# Translation of Themes - Articlewave in Russian
+# This file is distributed under the same license as the Themes - Articlewave package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-02-27 19:05:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-beta.2\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Articlewave\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Articlewave is a modern and stylish WordPress theme made for those bloggers who wants to create visually appealing website that everybody prefers. Another best feature you can get from Articlewave is its variety of customization options touching every part of the website, so that you can customize according to your preference.Now, you can create a unique looking, visually appealing and highly engaging website with ArticleWave WordPress Theme. You can check demos here https://preview.mysterythemes.com/articlewave-demos which can be easily imported by the Mystery Themes Demo Importer plugin & Documentation here: https://docs.mysterythemes.com/articlewave/"
+msgstr "Articlewave — это современная и стильная тема WordPress, созданная для тех блоггеров, которые хотят создать визуально привлекательный веб-сайт, который понравится всем. Еще одна лучшая особенность, которую вы можете получить от Articlewave, — это множество вариантов настройки, затрагивающих каждую часть веб-сайта, поэтому вы можете настроить их в соответствии со своими предпочтениями. Теперь вы можете создать уникально выглядящий, визуально привлекательный и очень привлекательный веб-сайт с помощью темы ArticleWave WordPress. . Вы можете проверить демо-версии здесь https://preview.mysterythemes.com/articlewave-demos, которые можно легко импортировать с помощью плагина Mystery Themes Demo Importer &amp; Документация здесь: https://docs.mysterythemes.com/articlewave/"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Articlewave"
+msgstr "Articlewave"
+
+#: inc/customizer/customizer-helper.php:334
+msgid "Custom Text Color and Background Color"
+msgstr "Настраиваемый цвет текста и фона"
+
+#: inc/customizer/customizer-helper.php:333
+msgid "Button Color"
+msgstr "Цвет кнопки"
+
+#: inc/customizer/customizer-helper.php:333
+msgid "Blank Page Option"
+msgstr "Опция пустой страницы"
+
+#: inc/customizer/customizer-helper.php:333
+msgid "3 More Page Layouts"
+msgstr "Еще 3 макета страниц"
+
+#: inc/customizer/customizer-helper.php:332
+msgid "2 Layouts for Author box"
+msgstr "2 макета для окна автора"
+
+#: inc/customizer/customizer-helper.php:331
+msgid "Separate Styling for Author Page and Search Page"
+msgstr "Отдельные стили для страницы автора и страницы поиска"
+
+#: inc/customizer/customizer-helper.php:330
+#: inc/customizer/customizer-helper.php:331
+msgid "Pagination Option"
+msgstr "Опция пагинации"
+
+#: inc/customizer/customizer-helper.php:330
+#: inc/customizer/customizer-helper.php:331
+msgid "4 More Layouts"
+msgstr "Еще 4 макета"
+
+#: inc/customizer/customizer-helper.php:329
+msgid "Banner Background Design"
+msgstr "Дизайн фона баннера"
+
+#: inc/customizer/customizer-helper.php:329
+msgid "Multiple Categories Option"
+msgstr "Опция нескольких рубрик"
+
+#: inc/customizer/customizer-helper.php:329
+#: inc/customizer/customizer-helper.php:332
+msgid "2 More Layouts"
+msgstr "Еще 2 макета"
+
+#: inc/customizer/customizer-helper.php:328
+msgid "6+ Social Icons"
+msgstr "6+ значков соцсетей"
+
+#: inc/customizer/customizer-helper.php:328
+msgid "Color Option on Social Icons"
+msgstr "Опция цвета для значков соцсетей"
+
+#: inc/customizer/customizer-helper.php:328
+msgid "2 Social Icons Layouts "
+msgstr "2 макета значков соцсети "
+
+#: inc/customizer/customizer-helper.php:328
+msgid "2 Search Layouts "
+msgstr "2 макета поиска "
+
+#: inc/customizer/customizer-helper.php:328
+msgid "2 More Header Layouts"
+msgstr "Еще 2 макета заголовка"
+
+#: inc/customizer/customizer-helper.php:327
+msgid "1 More Post Date Format"
+msgstr "Еще 1 формат даты записи"
+
+#: inc/customizer/customizer-helper.php:327
+msgid "3+ Image Hover Effects"
+msgstr "3+ эффектов изображения при наведении"
+
+#: inc/customizer/customizer-helper.php:327
+msgid "Author Icons on Posts"
+msgstr "Значки автора в записях"
+
+#: inc/customizer/customizer-helper.php:326
+msgid "Color Option"
+msgstr "Опция цвета"
+
+#: inc/customizer/customizer-helper.php:326
+msgid "Device visibility"
+msgstr "Видимость устройства"
+
+#: inc/customizer/customizer-helper.php:326
+msgid "Alignment Options"
+msgstr "Alignment Options"
+
+#: inc/customizer/customizer-helper.php:326
+msgid "10 Arrow Icons"
+msgstr "10 значков стрелок"
+
+#: inc/customizer/customizer-helper.php:325
+msgid "4 Breadcrumbs Option"
+msgstr "4 варианта хлебных крошек"
+
+#: inc/customizer/customizer-helper.php:324
+msgid "Font Color Option"
+msgstr "Опция цвета шрифта"
+
+#: inc/customizer/customizer-helper.php:324
+msgid "Adjustable font size"
+msgstr "Регулируемый размер шрифта"
+
+#: inc/customizer/customizer-helper.php:324
+msgid "600+ Google Fonts"
+msgstr "600+ шрифтов Google"
+
+#: inc/customizer/customizer-helper.php:323
+msgid "10 Styles"
+msgstr "10 стилей"
+
+#: inc/customizer/custom-controls/upgrade/class-upgrade-control.php:83
+msgid "upgrade to pro"
+msgstr "обновить до pro"
+
+#: inc/customizer/controls/banner.php:108
+#: inc/customizer/controls/banner.php:333
+#: inc/customizer/controls/footer-setting.php:106
+#: inc/customizer/controls/general.php:194
+#: inc/customizer/controls/general.php:494
+#: inc/customizer/controls/general.php:559
+#: inc/customizer/controls/general.php:617
+#: inc/customizer/controls/general.php:675
+#: inc/customizer/controls/header.php:234
+#: inc/customizer/controls/innerpage.php:189
+#: inc/customizer/controls/innerpage.php:279
+#: inc/customizer/controls/innerpage.php:370
+msgid "More features with Articlewave Pro"
+msgstr "Больше функций с Articlewave Pro"
+
+#: inc/admin/class-articlewave-dashboard.php:502
+msgid "GDPR Compatible"
+msgstr "Совместимость с GDPR"
+
+#: inc/admin/class-articlewave-dashboard.php:497
+msgid "WordPress Page builder Compatible"
+msgstr "Совместимость с конструктором страниц WordPress"
+
+#: inc/admin/class-articlewave-dashboard.php:492
+msgid "Footer Widget Area"
+msgstr "Область виджетов подвала"
+
+#: inc/admin/class-articlewave-dashboard.php:487
+msgid "Slider Layouts"
+msgstr "Макеты слайдера"
+
+#: inc/admin/class-articlewave-dashboard.php:482
+msgid "Banner Option"
+msgstr "Опция баннера"
+
+#: inc/admin/class-articlewave-dashboard.php:477
+msgid "Footer Background Option"
+msgstr "Опция фона подвала"
+
+#: inc/admin/class-articlewave-dashboard.php:472
+msgid "Custom 404 Page"
+msgstr "Произвольная страница 404"
+
+#: inc/admin/class-articlewave-dashboard.php:468
+msgid "Limited"
+msgstr "Ограниченная"
+
+#: inc/admin/class-articlewave-dashboard.php:467
+msgid "Typography options"
+msgstr "Параметры типографии"
+
+#: inc/admin/class-articlewave-dashboard.php:464
+msgid "600+"
+msgstr "600+"
+
+#: inc/admin/class-articlewave-dashboard.php:462
+msgid "Google Fonts"
+msgstr "Шрифты Google"
+
+#: inc/admin/class-articlewave-dashboard.php:459
+#: inc/admin/class-articlewave-dashboard.php:489
+msgid "3"
+msgstr "3"
+
+#: inc/admin/class-articlewave-dashboard.php:458
+#: inc/admin/class-articlewave-dashboard.php:488
+msgid "1"
+msgstr "1"
+
+#: inc/admin/class-articlewave-dashboard.php:457
+msgid "Header Layouts"
+msgstr "Макеты заголовка"
+
+#: inc/admin/class-articlewave-dashboard.php:452
+msgid "Pre Loaders Layouts"
+msgstr "Макеты анимации загрузки"
+
+#: inc/admin/class-articlewave-dashboard.php:447
+msgid "WooCommerce Plugin Compatible"
+msgstr "Совместимость с плагинами WooCommerce"
+
+#: inc/admin/class-articlewave-dashboard.php:442
+msgid "Multiple Layouts"
+msgstr "Несколько макетов"
+
+#: template-parts/partials/innerpage/relatedpost.php:34
+msgid "Related Posts"
+msgstr "Похожие записи"
+
+#: template-parts/partials/innerpage/author.php:32
+msgid "Website: "
+msgstr "Сайт: "
+
+#: template-parts/partials/innerpage/archive-title.php:43
+msgid "<span> Total Posts: %1$s</span>"
+msgstr "<span> Всего записей: %1$s</span>"
+
+#: template-parts/partials/header/sitemode-search.php:18
+msgid "site mode button"
+msgstr "кнопка режима сайта"
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: template-parts/partials/footer/footer-text.php:23
+msgid "Proudly powered by %s"
+msgstr "На платформе %s"
+
+#: template-parts/partials/banner/tab.php:36
+#: template-parts/partials/innerpage/archive-title.php:51
+msgid "Latest Post"
+msgstr "Последняя запись"
+
+#: template-parts/partials/banner/tab.php:17
+msgid "Popular Posts"
+msgstr "Популярные записи"
+
+#: template-parts/partials/banner/slider.php:50
+msgid "Read More"
+msgstr "Читать далее"
+
+#: template-parts/content-search.php:81 template-parts/content.php:141
+msgid "Continue Reading"
+msgstr "Продолжить чтение"
+
+#: template-parts/content-page.php:25 template-parts/content.php:124
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: template-parts/content-none.php:50
+msgid "Back to Home"
+msgstr "Вернуться на главную"
+
+#: template-parts/content-none.php:45
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, мы не можем найти то, что вы ищите. Возможно, поможет поиск."
+
+#: template-parts/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "По вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните отсюда</a>."
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: single.php:79
+msgid "Next:"
+msgstr "Далее:"
+
+#: single.php:78
+msgid "Previous:"
+msgstr "Предыдущая:"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: single.php:61 template-parts/content.php:93 template-parts/content.php:109
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Продолжить чтение<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. translators: %s: search query.
+#: search.php:26
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: inc/widgets/trending-posts.php:43
+msgid "Posts Date Filter"
+msgstr "Фильтр по дате записи"
+
+#: inc/widgets/trending-posts.php:37
+msgid "Trending Posts"
+msgstr "Популярные записи"
+
+#: inc/widgets/trending-posts.php:24
+msgid "MT: Trending Posts"
+msgstr "MT: Популярные записи"
+
+#: inc/widgets/trending-posts.php:21
+msgid "Display trending posts in various layouts."
+msgstr "Отображение популярных записей в различных макетах."
+
+#: inc/widgets/latest-posts.php:50 inc/widgets/trending-posts.php:50
+msgid "No. of posts"
+msgstr "Кол-во записей"
+
+#: inc/widgets/latest-posts.php:43
+msgid "Posts Query Filter"
+msgstr "Фильтр запросов записей"
+
+#: inc/widgets/latest-posts.php:24
+msgid "MT: Latest Posts"
+msgstr "MT: Последние записи"
+
+#: inc/widgets/latest-posts.php:21
+msgid "Display latest posts in various layouts."
+msgstr "Отображение последних записей в различных макетах."
+
+#: inc/widgets/author-profile.php:62
+msgid "Author Link"
+msgstr "Ссылка автора"
+
+#: inc/widgets/author-profile.php:56
+msgid "Author Bio"
+msgstr "Биография автора"
+
+#: inc/widgets/author-profile.php:49 inc/widgets/author-profile.php:52
+msgid "Author Name"
+msgstr "Имя автора"
+
+#: inc/widgets/author-profile.php:43
+msgid "Author Profile Picture"
+msgstr "Аватар автора"
+
+#: inc/widgets/author-profile.php:36 inc/widgets/author-profile.php:39
+#: inc/widgets/latest-posts.php:36 inc/widgets/latest-posts.php:39
+#: inc/widgets/trending-posts.php:36 inc/widgets/trending-posts.php:39
+msgid "Widget Title"
+msgstr "Название виджета"
+
+#: inc/widgets/author-profile.php:24
+msgid "MT: Author Profile"
+msgstr "MT: Аватор автора"
+
+#: inc/widgets/author-profile.php:21
+msgid "Add a complete information about author."
+msgstr "Добавьте полную информацию об авторе."
+
+#: inc/widgets/articlewave-widgets-helper.php:342
+msgid "Comment"
+msgstr "Комментарий"
+
+#: inc/widgets/articlewave-widgets-helper.php:341
+msgid "Tag"
+msgstr "Метка"
+
+#: inc/widgets/articlewave-widgets-helper.php:322
+msgid "Random Posts"
+msgstr "Случайные записи"
+
+#: inc/widgets/articlewave-widgets-helper.php:321
+#: inc/widgets/latest-posts.php:37
+msgid "Latest Posts"
+msgstr "Последние записи"
+
+#: inc/widgets/articlewave-widgets-helper.php:300
+msgid "Layout Two"
+msgstr "2-й макет"
+
+#: inc/widgets/articlewave-widgets-helper.php:296
+msgid "Layout One"
+msgstr "1-й макет"
+
+#: inc/widgets/articlewave-widgets-helper.php:225
+msgid "Select Image"
+msgstr "Выбрать изображение"
+
+#: inc/widgets/articlewave-widgets-helper.php:224
+msgid "Remove"
+msgstr "Удалить"
+
+#: inc/widgets/articlewave-widgets-helper.php:217
+msgid "No image selected"
+msgstr "Изображение не выбрано"
+
+#: inc/widgets/articlewave-widgets-helper.php:145
+msgid "- - Select Category - -"
+msgstr "-- Выбрать рубрику --"
+
+#: inc/template-tags.php:231
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: inc/template-tags.php:228
+msgid "mins read"
+msgstr "минут чтения"
+
+#: inc/template-tags.php:226
+msgid "min read"
+msgstr "минута чтение"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:122 template-parts/content-page.php:39
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Изменить <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: %s: post title
+#: inc/template-tags.php:105
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Добавить комментарий<span class=\"screen-reader-text\"> к  %s</span>"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:95
+msgid "Tagged %1$s"
+msgstr "Отмечено %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:92
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:88
+msgid "Posted in %1$s"
+msgstr "Запись в %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:85
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post author.
+#: inc/template-tags.php:47
+msgctxt "post author"
+msgid "by %s"
+msgstr "от %s"
+
+#. translators: %s: post date.
+#: inc/template-tags.php:30
+msgctxt "post date"
+msgid " %s"
+msgstr " %s"
+
+#: inc/template-functions.php:366
+msgid "Ultra-Bold 900 Italic"
+msgstr "Сверхжирный 900 курсив"
+
+#: inc/template-functions.php:362
+msgid "Ultra-Bold 900"
+msgstr "Сверхжирный 900"
+
+#: inc/template-functions.php:358
+msgid "Extra-Bold 800 Italic"
+msgstr "Сверхжирный 800 курсив"
+
+#: inc/template-functions.php:354
+msgid "Extra-Bold 800"
+msgstr "Сверхжирный 800"
+
+#: inc/template-functions.php:350
+msgid "Bold 700 Italic"
+msgstr "Жирный 700 курсив"
+
+#: inc/template-functions.php:342
+msgid "Semi-Bold 600 Italic"
+msgstr "Полужирный 600 курсив"
+
+#: inc/template-functions.php:338
+msgid "Semi-Bold 600"
+msgstr "Полужирный 600"
+
+#: inc/template-functions.php:334
+msgid "Medium 500 Italic"
+msgstr "Средний 500 курсив"
+
+#: inc/template-functions.php:330
+msgid "Medium 500"
+msgstr "Средний 500"
+
+#: inc/template-functions.php:322 inc/template-functions.php:326
+msgid "Normal 400 Italic"
+msgstr "Обычный 400 курсив"
+
+#: inc/template-functions.php:314
+msgid "Light 300 Italic"
+msgstr "Легкий 300 курсив"
+
+#: inc/template-functions.php:310
+msgid "Light 300"
+msgstr "Лёгкий 300"
+
+#: inc/template-functions.php:306
+msgid "Extra-Light 200 Italic"
+msgstr "Сверхсветлый 200 курсив"
+
+#: inc/template-functions.php:302
+msgid "Extra-Light 200"
+msgstr "Сверхсветлый 200"
+
+#: inc/template-functions.php:298
+msgid "Thin 100 Italic"
+msgstr "Тонкий 100 курсив"
+
+#: inc/template-functions.php:294
+msgid "Thin 100"
+msgstr "Тонкий 100"
+
+#: inc/customizer/extend-customizer/class-customize-section.php:57
+msgid "Customizing"
+msgstr "Индивидуализация"
+
+#: inc/customizer/extend-customizer/class-customize-section.php:55
+msgid "Customizing &#9656; %s"
+msgstr "Индивидуализация &#9656; %s"
+
+#: inc/customizer/customizer-helper.php:279
+#: inc/customizer/customizer-helper.php:302
+msgid "List"
+msgstr "Список"
+
+#: inc/customizer/customizer-helper.php:278
+#: inc/customizer/customizer-helper.php:301
+msgid "Classic"
+msgstr "Классический"
+
+#: inc/customizer/customizer-helper.php:277
+#: inc/customizer/customizer-helper.php:300
+msgid "Grid"
+msgstr "Сетка"
+
+#: inc/customizer/customizer-helper.php:256
+msgid "Live Search"
+msgstr "Поиск в реальном времени"
+
+#: inc/customizer/customizer-helper.php:255
+msgid "Default"
+msgstr "По умолчанию"
+
+#: inc/customizer/customizer-helper.php:234
+msgid "One"
+msgstr "Один"
+
+#: inc/customizer/customizer-helper.php:233
+msgid "None"
+msgstr "Отсутствует"
+
+#: inc/customizer/customizer-helper.php:212
+msgid "Last Month"
+msgstr "Прошлый месяц"
+
+#: inc/customizer/customizer-helper.php:211
+msgid "This Month"
+msgstr "В этом месяце"
+
+#: inc/customizer/customizer-helper.php:210
+msgid "Last Week"
+msgstr "Прошлая неделя"
+
+#: inc/customizer/customizer-helper.php:209
+msgid "This Week"
+msgstr "На этой неделе"
+
+#: inc/customizer/customizer-helper.php:208
+msgid "Today"
+msgstr "Сегодня"
+
+#: inc/customizer/customizer-helper.php:207
+msgid "All"
+msgstr "Все"
+
+#: inc/customizer/customizer-helper.php:185
+msgid "Layout 4"
+msgstr "Макет 4"
+
+#: inc/customizer/customizer-helper.php:181
+msgid "Layout 3"
+msgstr "Макет 3"
+
+#: inc/customizer/customizer-helper.php:177
+msgid "Layout 2"
+msgstr "Макет 2"
+
+#: inc/customizer/customizer-helper.php:173
+msgid "Layout 1"
+msgstr "Макет 1"
+
+#: inc/customizer/customizer-helper.php:147
+msgid "Select Category"
+msgstr "Выбрать рубрику"
+
+#: inc/customizer/customizer-helper.php:121
+msgid "No Sidebar Center"
+msgstr "Без области виджетов в центре"
+
+#: inc/customizer/customizer-helper.php:117
+msgid "No Sidebar"
+msgstr "Без области виджетов"
+
+#: inc/customizer/customizer-helper.php:113
+msgid "Both Sidebar"
+msgstr "Обе области виджетов"
+
+#: inc/customizer/customizer-helper.php:109
+msgid "Left Sidebar"
+msgstr "Левая область виджетов"
+
+#: inc/customizer/customizer-helper.php:105
+msgid "Right Sidebar"
+msgstr "Правая область виджетов"
+
+#: inc/customizer/customizer-helper.php:81
+msgid "Style 3"
+msgstr "Стиль 3"
+
+#: inc/customizer/customizer-helper.php:77
+msgid "Style 2"
+msgstr "Стиль 2"
+
+#: inc/customizer/customizer-helper.php:73
+msgid "Style 1"
+msgstr "Стиль 1"
+
+#: inc/customizer/customizer-helper.php:51
+msgid "Dark Mode"
+msgstr "Тёмный режим"
+
+#: inc/customizer/customizer-helper.php:50
+msgid "Light Mode"
+msgstr "Светлый режим"
+
+#: inc/customizer/customizer-helper.php:28
+msgid "Separate"
+msgstr "Разделить"
+
+#: inc/customizer/customizer-helper.php:24
+msgid "Boxed"
+msgstr "Блочная"
+
+#: inc/customizer/customizer-helper.php:20
+msgid "Fullwidth"
+msgstr "Во всю ширину"
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:377
+msgid "Line-through"
+msgstr "Зачеркнутый"
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:376
+msgid "Underline"
+msgstr "Подчёркнутый"
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:356
+msgid "Uppercase"
+msgstr "Верхний регистр"
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:355
+msgid "Capitalize"
+msgstr "Заглавные буквы"
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:354
+msgid "Lowercase"
+msgstr "Нижний регистр"
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:334
+msgid "Italic"
+msgstr "Курсив"
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:333
+msgid "Normal"
+msgstr "Обычный"
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:309
+#: inc/customizer/custom-controls/typography/class-typography-control.php:316
+#: inc/template-functions.php:346
+msgid "Bold 700"
+msgstr "Жирный 700"
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:308
+#: inc/customizer/custom-controls/typography/class-typography-control.php:315
+#: inc/template-functions.php:318
+msgid "Normal 400"
+msgstr "Обычный 400"
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:298
+#: inc/customizer/custom-controls/typography/class-typography-control.php:307
+#: inc/customizer/custom-controls/typography/class-typography-control.php:314
+#: inc/customizer/custom-controls/typography/class-typography-control.php:332
+#: inc/customizer/custom-controls/typography/class-typography-control.php:353
+#: inc/customizer/custom-controls/typography/class-typography-control.php:375
+#: inc/template-functions.php:269 inc/template-functions.php:370
+msgid "Inherit"
+msgstr "Наследовать"
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:63
+msgid "Font Decoration"
+msgstr "Оформление шрифта"
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:62
+msgid "Font Transform"
+msgstr "Регистр шрифта"
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:61
+msgid "Font Style"
+msgstr "Стиль шрифта"
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:60
+msgid "Font Weight"
+msgstr "Толщина шрифта"
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:59
+msgid "Font Family"
+msgstr "Семейство шрифтов"
+
+#: inc/customizer/custom-controls/repeater/class-repeater-control.php:207
+msgid "Close"
+msgstr "Закрыть"
+
+#: inc/customizer/custom-controls/repeater/class-repeater-control.php:206
+msgid "Delete"
+msgstr "Удалить"
+
+#: inc/customizer/controls/typography.php:86
+#: inc/customizer/controls/typography.php:154
+msgid "Select how you want your body fonts to appear."
+msgstr "Выберите, как будут отображаться шрифты основной части."
+
+#: inc/customizer/controls/innerpage.php:349
+msgid "Enable Homepage button"
+msgstr "Кнопка главной страницы: вкл/откл"
+
+#: inc/customizer/controls/innerpage.php:324
+msgid "Enable Search Box"
+msgstr "Окно поиска: вкл/откл"
+
+#: inc/customizer/controls/innerpage.php:300
+msgid "404 Page Settings"
+msgstr "Настройки страницы 404"
+
+#: inc/customizer/controls/innerpage.php:258
+msgid "Enable Related Posts"
+msgstr "Похожие записи: вкл/откл"
+
+#: inc/customizer/controls/innerpage.php:233
+msgid "Enable Author Box"
+msgstr "Окно автора: вкл/откл"
+
+#: inc/customizer/controls/innerpage.php:209
+msgid "Post Settings"
+msgstr "Настройки записи"
+
+#: inc/customizer/controls/innerpage.php:168
+msgid "Enable Post Reading Time"
+msgstr "Время чтения записи: вкл/откл"
+
+#: inc/customizer/controls/innerpage.php:144
+msgid "Enable Read More"
+msgstr "Читать далее: вкл/откл"
+
+#: inc/customizer/controls/innerpage.php:93
+msgid "Archive Page Style"
+msgstr "Стиль страницы архива"
+
+#: inc/customizer/controls/innerpage.php:70
+msgid "Enable Archive Page Title Prefix"
+msgstr "Префикс заголовка страницы архива: вкл/откл"
+
+#: inc/customizer/controls/innerpage.php:45
+msgid "Archive Settings"
+msgstr "Настройки архива"
+
+#: inc/customizer/controls/innerpage.php:27
+msgid "Inner Page Settings"
+msgstr "Настройки внутренней страницы"
+
+#: inc/customizer/controls/header.php:213
+msgid "Enable sticky sidebar toggle"
+msgstr "Переключатель прилепленной области виджетов: вкл/откл"
+
+#: inc/customizer/controls/header.php:186
+msgid "Search Method"
+msgstr "Метод поиска"
+
+#: inc/customizer/controls/header.php:162
+msgid "Enable search bar"
+msgstr "Панель поиска: вкл/откл"
+
+#: inc/customizer/controls/header.php:133
+msgid "Enter social media url."
+msgstr "Введите URL соцсети."
+
+#: inc/customizer/controls/header.php:132
+msgid "Social Link URL"
+msgstr "URL соцсети"
+
+#: inc/customizer/controls/header.php:128
+msgid "Choose social media icon."
+msgstr "Выберите значок соцсети."
+
+#: inc/customizer/controls/header.php:127
+msgid "Social Icon"
+msgstr "Значок соцсети"
+
+#: inc/customizer/controls/header.php:121
+msgid "Add Icon"
+msgstr "Добавить значок"
+
+#: inc/customizer/controls/header.php:119
+msgid "Add item for required social icon"
+msgstr "Добавить элемент для нужного значка соцсети"
+
+#: inc/customizer/controls/header.php:118
+#: inc/customizer/controls/header.php:120
+msgid "Social Icons"
+msgstr "Значки соцсетей"
+
+#: inc/customizer/controls/header.php:98
+msgid "Enable social icons"
+msgstr "Значки соцсетей: вкл/откл"
+
+#: inc/customizer/controls/header.php:74
+msgid "Header Items"
+msgstr "Элементы заголовка"
+
+#: inc/customizer/controls/header.php:27
+msgid "Header Settings"
+msgstr "Настройки заголовка"
+
+#: inc/customizer/controls/general.php:653
+msgid "Image Hover Effect"
+msgstr "Эффект при наведении на изображение"
+
+#: inc/customizer/controls/general.php:637
+msgid "Posts"
+msgstr "Записи"
+
+#: inc/customizer/controls/general.php:596
+msgid "Enable Scroll Top"
+msgstr "Прокрутить вверх: вкл/откл"
+
+#: inc/customizer/controls/general.php:579
+msgid "Scroll Top"
+msgstr "Прокрутить вверх"
+
+#: inc/customizer/controls/general.php:538
+msgid "Heading"
+msgstr "Заголовок"
+
+#: inc/customizer/controls/general.php:527
+msgid "Body"
+msgstr "Основная часть"
+
+#: inc/customizer/controls/general.php:516
+msgid "Typography"
+msgstr "Типографика"
+
+#: inc/customizer/controls/general.php:473
+msgid "Enable Breadcrumbs"
+msgstr "Навигационные цепочки: вкл/отк"
+
+#: inc/customizer/controls/general.php:456
+msgid "Breadcrumb"
+msgstr "Навигационная цепочка"
+
+#: inc/customizer/controls/general.php:435
+msgid "Page Sidebar Layout"
+msgstr "Макет области виджетов страницы"
+
+#: inc/customizer/controls/general.php:412
+msgid "Post Sidebar Layout"
+msgstr "Макет области виджетов записи"
+
+#: inc/customizer/controls/general.php:389
+msgid "Archive and Blog"
+msgstr "Архив и блог"
+
+#: inc/customizer/controls/general.php:370
+msgid "Sidebar Layout"
+msgstr "Макет области виджетов"
+
+#: inc/customizer/controls/general.php:346
+msgid "%1$s Color"
+msgstr "Цвет %1$s"
+
+#: inc/customizer/controls/general.php:321
+msgid "Categories Colors"
+msgstr "Цвета рубрик"
+
+#: inc/customizer/controls/general.php:299
+msgid "Link Hover Color"
+msgstr "Цвет ссылки при наведении"
+
+#: inc/customizer/controls/general.php:283
+msgid "Link Color"
+msgstr "Цвет ссылки"
+
+#: inc/customizer/controls/general.php:264
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: inc/customizer/controls/general.php:247
+msgid "Primary Color"
+msgstr "Основной цвет"
+
+#: inc/customizer/controls/general.php:233
+msgid "Base Colors"
+msgstr "Базовые цвета"
+
+#: inc/customizer/controls/general.php:215
+msgid "Colors"
+msgstr "Цвета"
+
+#: inc/customizer/controls/general.php:150
+#: inc/customizer/controls/general.php:170
+msgid "Pre Loader"
+msgstr "Анимация загрузки"
+
+#: inc/customizer/controls/general.php:142
+msgid "Enable Pre Loader"
+msgstr "Анимация загрузки: вкл/откл"
+
+#: inc/customizer/controls/general.php:111
+msgid "Site Mode Option"
+msgstr "Опция режима сайта"
+
+#: inc/customizer/controls/general.php:84
+msgid "Enable Site Mode Switcher"
+msgstr "Переключатель режима сайта: вкл/откл"
+
+#: inc/customizer/controls/general.php:42
+#: inc/customizer/controls/general.php:62
+msgid "Site Layout"
+msgstr "Макет сайта"
+
+#: inc/customizer/controls/general.php:26
+msgid "General Settings"
+msgstr "Общие настройки"
+
+#: inc/customizer/controls/footer-setting.php:147
+msgid "Copyright © articlewave {year} "
+msgstr "Copyright © articlewave {year} "
+
+#: inc/customizer/controls/footer-setting.php:144
+msgid "Footer Area"
+msgstr "Область подвала"
+
+#: inc/customizer/controls/footer-setting.php:127
+msgid "Bottom Footer"
+msgstr "Нижняя часть подвала"
+
+#: inc/customizer/controls/footer-setting.php:83
+#: inc/customizer/controls/general.php:63
+#: inc/customizer/controls/general.php:171
+#: inc/customizer/controls/general.php:390
+#: inc/customizer/controls/general.php:413
+#: inc/customizer/controls/general.php:436
+msgid "Choose from available layouts"
+msgstr "Выбрать из доступных макетов"
+
+#: inc/customizer/controls/footer-setting.php:82
+msgid "Column Layout"
+msgstr "Макет столбца"
+
+#: inc/customizer/controls/footer-setting.php:62
+msgid "Enable Footer Main Area"
+msgstr "Основную область подвала: вкл/откл"
+
+#: inc/customizer/controls/footer-setting.php:45
+msgid "Widget Area"
+msgstr "Область виджетов"
+
+#: inc/customizer/controls/footer-setting.php:27
+msgid "Footer Settings"
+msgstr "Настройки подвала"
+
+#: inc/customizer/controls/banner.php:311
+#: template-parts/partials/banner/tab.php:18
+msgid "Recent Posts"
+msgstr "Последние записи"
+
+#: inc/customizer/controls/banner.php:308
+msgid "Recent Title Input Field"
+msgstr "Поле ввода последнего заголовка"
+
+#: inc/customizer/controls/banner.php:291
+msgid "It will display the post based on the recent post"
+msgstr "Он отобразит сообщение на основе последней записи."
+
+#: inc/customizer/controls/banner.php:290
+msgid "Enable Recent Post Display"
+msgstr "Отображение последней записи: вкл/откл"
+
+#: inc/customizer/controls/banner.php:264
+msgid "Popular Post"
+msgstr "Популярная запись"
+
+#: inc/customizer/controls/banner.php:261
+msgid "Popular Title Input Field"
+msgstr "Поле ввода популярного заголовка"
+
+#: inc/customizer/controls/banner.php:245
+msgid "It will display the post based on the most comment post"
+msgstr "Он будет отображать запись на основе записи с наибольшим количеством комментариев."
+
+#: inc/customizer/controls/banner.php:244
+msgid "Enable Popular Post Display"
+msgstr "Отображение популярной записи: вкл/откл"
+
+#: inc/customizer/controls/banner.php:219
+msgid "Tabbed Settings"
+msgstr "Настройки закладок"
+
+#: inc/customizer/controls/banner.php:189
+msgid "Choose a Category"
+msgstr "Выбрать рубрику"
+
+#: inc/customizer/controls/banner.php:175
+msgid "Enable Silder"
+msgstr "Слайдер: вкл/откл"
+
+#: inc/customizer/controls/banner.php:150
+msgid "Slider Settings"
+msgstr "Настройки слайдера"
+
+#: inc/customizer/controls/banner.php:83
+#: inc/customizer/controls/innerpage.php:115
+msgid "Enable Masonry For Grid"
+msgstr "Кладка для сетки: вкл/откл"
+
+#: inc/customizer/controls/banner.php:61
+msgid "Front Page  Post Style"
+msgstr "Стиль записи на титульной странице"
+
+#: inc/customizer/controls/banner.php:45
+msgid "Front Post Settings"
+msgstr "Настройка титульной записи"
+
+#: inc/customizer/controls/banner.php:27
+msgid "Front Page Settings"
+msgstr "Настройки главной страницы"
+
+#: inc/admin/class-articlewave-notice.php:181
+msgid "Read full documentation"
+msgstr "Читать полную документацию"
+
+#: inc/admin/class-articlewave-notice.php:176
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/admin/class-articlewave-notice.php:171
+#: inc/admin/class-articlewave-notice.php:181
+msgid "opens in a new tab"
+msgstr "откроется в новой вкладке"
+
+#: inc/admin/class-articlewave-notice.php:166
+msgid "Demo"
+msgstr "Демонстрация"
+
+#: inc/admin/class-articlewave-notice.php:154
+msgid "Customize your site"
+msgstr "Настройте свой сайт"
+
+#: inc/admin/class-articlewave-notice.php:151
+msgid "Get started with %1$s"
+msgstr "Начните с %1$s"
+
+#: inc/admin/class-articlewave-notice.php:150
+msgid "Processing"
+msgstr "В обработке"
+
+#: inc/admin/class-articlewave-notice.php:150
+msgid "Done!"
+msgstr "Готово!"
+
+#: inc/admin/class-articlewave-notice.php:141
+msgid "General Info"
+msgstr "Общая информация"
+
+#: inc/admin/class-articlewave-notice.php:129
+msgid "%1$s is now installed and ready to use. Now that you are part of us. We have curated some important links for you to get rolling."
+msgstr "%1$s установлен и готов к работе. Теперь, когда вы являетесь частью нас. Мы подготовили несколько важных ссылок, чтобы вы могли начать работу."
+
+#: inc/admin/class-articlewave-notice.php:126
+msgid "Congratulations!"
+msgstr "Поздравляем!"
+
+#: inc/admin/class-articlewave-notice.php:123
+msgid "Dismiss this notice."
+msgstr "Отклонить это уведомление."
+
+#: inc/admin/class-articlewave-notice.php:103
+msgid "Cheat in &#8217; huh?"
+msgstr "Хакер, что ли?"
+
+#: inc/admin/class-articlewave-notice.php:99
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Действие не удалось. Обновите страницу и попробуйте снова."
+
+#: inc/admin/class-articlewave-dashboard.php:676
+msgid "Version %1$s"
+msgstr "Версия %1$s"
+
+#: inc/admin/class-articlewave-dashboard.php:659
+msgid "Activate"
+msgstr "Активировать"
+
+#: inc/admin/class-articlewave-dashboard.php:654
+msgid "Deactivate"
+msgstr "Деактивировать"
+
+#: inc/admin/class-articlewave-dashboard.php:640
+msgid "These Free Plugins might be handy for you."
+msgstr "Эти бесплатные плагины могут быть полезны для вас."
+
+#: inc/admin/class-articlewave-dashboard.php:639
+msgid "Recommended Free Plugins"
+msgstr "Рекомендуемые бесплатные плагины"
+
+#: inc/admin/class-articlewave-dashboard.php:574
+msgid "Released on: %1$s"
+msgstr "Выпущено: %1$s"
+
+#: inc/admin/class-articlewave-dashboard.php:562
+msgid "Tweak"
+msgstr "Tweak"
+
+#: inc/admin/class-articlewave-dashboard.php:561
+msgid "T"
+msgstr "T"
+
+#: inc/admin/class-articlewave-dashboard.php:558
+msgid "Fixed"
+msgstr "Фиксировано"
+
+#: inc/admin/class-articlewave-dashboard.php:557
+msgid "F"
+msgstr "F"
+
+#: inc/admin/class-articlewave-dashboard.php:554
+msgid "Improvement"
+msgstr "Улучшение"
+
+#: inc/admin/class-articlewave-dashboard.php:553
+msgid "I"
+msgstr "I"
+
+#: inc/admin/class-articlewave-dashboard.php:550
+msgid "New"
+msgstr "Новый"
+
+#: inc/admin/class-articlewave-dashboard.php:549
+msgid "N"
+msgstr "N"
+
+#: inc/admin/class-articlewave-dashboard.php:511
+msgid "Buy Pro"
+msgstr "Купить Pro"
+
+#: inc/admin/class-articlewave-dashboard.php:508
+msgid "Get access to all Pro features and power-up your website"
+msgstr "Получите доступ ко всем функциям Pro и улучшите свой сайт"
+
+#: inc/admin/class-articlewave-dashboard.php:437
+msgid "Import Demo Data"
+msgstr "Импорт демо-данных"
+
+#: inc/admin/class-articlewave-dashboard.php:434
+msgid "$59.99"
+msgstr "$59.99"
+
+#: inc/admin/class-articlewave-dashboard.php:433
+msgid "Free"
+msgstr "Бесплатно"
+
+#: inc/admin/class-articlewave-dashboard.php:432
+msgid "Price"
+msgstr "Цена"
+
+#: inc/admin/class-articlewave-dashboard.php:427
+#: inc/customizer/customizer.php:47
+msgid "Articlewave Pro"
+msgstr "Articlewave Pro"
+
+#: inc/admin/class-articlewave-dashboard.php:426
+msgid "Articlewave Free"
+msgstr "Articlewave Free"
+
+#: inc/admin/class-articlewave-dashboard.php:425
+msgid "Features"
+msgstr "Функции"
+
+#: inc/admin/class-articlewave-dashboard.php:328
+#: inc/admin/class-articlewave-dashboard.php:386
+msgid "View Demo"
+msgstr "Посмотреть демо"
+
+#: inc/admin/class-articlewave-dashboard.php:322
+#: inc/admin/class-articlewave-dashboard.php:379
+msgid "Import"
+msgstr "Импорт"
+
+#: inc/admin/class-articlewave-dashboard.php:321
+#: inc/admin/class-articlewave-dashboard.php:378
+msgid "Import %1$s"
+msgstr "Импорт %1$s"
+
+#: inc/admin/class-articlewave-dashboard.php:318
+#: inc/admin/class-articlewave-dashboard.php:375
+msgid "Demo importer plugin is not installed or activated"
+msgstr "Плагин импорта демо не установлен или не активирован"
+
+#: inc/admin/class-articlewave-dashboard.php:316
+#: inc/admin/class-articlewave-dashboard.php:373
+msgid "Click to import demo"
+msgstr "Нажмите, чтобы импортировать демо"
+
+#: inc/admin/class-articlewave-dashboard.php:368
+#: inc/customizer/customizer.php:48
+msgid "Buy Now"
+msgstr "Купить сейчас"
+
+#: inc/admin/class-articlewave-dashboard.php:367
+msgid "Purchase Now"
+msgstr "Купить сейчас"
+
+#: inc/admin/class-articlewave-dashboard.php:311
+#: inc/admin/class-articlewave-dashboard.php:359
+msgid "Imported"
+msgstr "Импортировано"
+
+#: inc/admin/class-articlewave-dashboard.php:310
+#: inc/admin/class-articlewave-dashboard.php:358
+msgid "Imported %1$s"
+msgstr "Импортировано %1$s"
+
+#: inc/admin/class-articlewave-dashboard.php:279
+msgid "No demos are configured for this theme, please contact the theme author"
+msgstr "Для этой темы не настроено ни одной демо-версии, свяжитесь с автором темы"
+
+#: inc/admin/class-articlewave-dashboard.php:232
+msgid "Go to Dashboard"
+msgstr "Перейти в Консоль"
+
+#: inc/admin/class-articlewave-dashboard.php:232
+msgid "Go to Dashboard &rarr; Home"
+msgstr "Перейти в Консоль и Главная"
+
+#: inc/admin/class-articlewave-dashboard.php:229
+msgid "Return to Dashboard &rarr; Updates"
+msgstr "Вернуться в Консоль и Обновления"
+
+#: inc/admin/class-articlewave-dashboard.php:229
+msgid "Return to Updates"
+msgstr "Вернуться к обновлениям"
+
+#: inc/admin/class-articlewave-dashboard.php:221
+msgid "WP Tutorials"
+msgstr "Учебные пособия WPAllresources"
+
+#: inc/admin/class-articlewave-dashboard.php:216
+msgid "Tutorial"
+msgstr "Учебное пособие"
+
+#: inc/admin/class-articlewave-dashboard.php:203
+#: inc/admin/class-articlewave-dashboard.php:208
+msgid "Contact Support"
+msgstr "Связаться с поддержкой"
+
+#: inc/admin/class-articlewave-dashboard.php:195
+msgid "Go to doc"
+msgstr "Перейти к документации"
+
+#: inc/admin/class-articlewave-dashboard.php:190
+msgid "Theme Documentation"
+msgstr "Документация к теме"
+
+#: inc/admin/class-articlewave-dashboard.php:181
+msgid "Manage widgets"
+msgstr "Управление виджетами"
+
+#: inc/admin/class-articlewave-dashboard.php:178
+msgid "Manage menus"
+msgstr "Управление меню"
+
+#: inc/admin/class-articlewave-dashboard.php:175
+msgid "Footer Setting"
+msgstr "Настройка подвала"
+
+#: inc/admin/class-articlewave-dashboard.php:170
+#: inc/customizer/controls/banner.php:128
+msgid "Banner Settings"
+msgstr "Настройки баннера"
+
+#: inc/admin/class-articlewave-dashboard.php:167
+msgid "Manage Header"
+msgstr "Управление заголовком"
+
+#: inc/admin/class-articlewave-dashboard.php:164
+msgid "Setup Site Layout"
+msgstr "Установка макета сайта"
+
+#: inc/admin/class-articlewave-dashboard.php:161
+msgid "Setup site logo"
+msgstr "Установка логотипа сайта"
+
+#: inc/admin/class-articlewave-dashboard.php:156
+msgid "Customizer quick link"
+msgstr "Быстрая ссылка на настройки темы"
+
+#: inc/admin/class-articlewave-dashboard.php:128
+msgid "Submit a review"
+msgstr "Отправьте отзыв"
+
+#: inc/admin/class-articlewave-dashboard.php:125
+msgid "Leave us a reivew"
+msgstr "Оставьте нам отзыв"
+
+#: inc/admin/class-articlewave-dashboard.php:105
+msgid "More Features With Pro"
+msgstr "Больше функций с Pro"
+
+#: inc/admin/class-articlewave-dashboard.php:100
+msgid "Changelog"
+msgstr "Журнал изменений"
+
+#: inc/admin/class-articlewave-dashboard.php:95
+msgid "Free Vs Pro"
+msgstr "Бесплатная или платная"
+
+#: inc/admin/class-articlewave-dashboard.php:90
+msgid "Plugin"
+msgstr "Плагин"
+
+#: inc/admin/class-articlewave-dashboard.php:85
+#: inc/admin/class-articlewave-notice.php:171
+msgid "Stater Sites"
+msgstr "Стартовые сайты"
+
+#: inc/admin/class-articlewave-dashboard.php:80
+msgid "Welcome"
+msgstr "Добро пожаловать"
+
+#: inc/admin/class-articlewave-dashboard.php:73
+#: inc/admin/class-articlewave-dashboard.php:573
+msgid "Version: %1$s"
+msgstr "Версия: %1$s"
+
+#: inc/admin/class-articlewave-dashboard.php:72
+msgid "Articlewave Options"
+msgstr "Параметры Articlewave"
+
+#: inc/admin/class-articlewave-dashboard.php:46
+msgid "%1$s Dashboard"
+msgstr "Консоль %1$s"
+
+#: inc/admin/class-articlewave-admin.php:516
+msgid "Activate Now"
+msgstr "Активировать сейчас"
+
+#: inc/admin/class-articlewave-admin.php:515
+msgid "Activated"
+msgstr "Активировано"
+
+#: inc/admin/class-articlewave-admin.php:515
+msgid "Activating"
+msgstr "Активация"
+
+#: inc/admin/class-articlewave-admin.php:514
+msgid "Mystery Themes Demo Importer Plugin is installed but not activated!"
+msgstr "Плагин Mystery Themes Demo Importer установлен, но не активирован!"
+
+#: inc/admin/class-articlewave-admin.php:509
+#: inc/admin/class-articlewave-dashboard.php:649
+msgid "Install and Activate"
+msgstr "Установить и активировать"
+
+#: inc/admin/class-articlewave-admin.php:508
+msgid "Installed & Activated"
+msgstr "Установлен и активирован"
+
+#: inc/admin/class-articlewave-admin.php:508
+msgid "Installing & Activating"
+msgstr "Установка и активация"
+
+#: inc/admin/class-articlewave-admin.php:507
+msgid "Mystery Themes Demo Importer Plugin is not installed!"
+msgstr "Плагин Mystery Themes Demo Importer не установлен!"
+
+#: inc/admin/class-articlewave-admin.php:503
+msgid "You can import available demos now!"
+msgstr "Вы можете импортировать доступные демо-версии прямо сейчас!"
+
+#: inc/admin/class-articlewave-admin.php:204
+msgid "Plugin activated successfully"
+msgstr "Плагин успешно активирован"
+
+#: inc/admin/class-articlewave-admin.php:190
+msgid "Sorry, you are not allowed to activate plugins on this site."
+msgstr "Вам не разрешено активировать плагины на этом сайте."
+
+#: inc/admin/class-articlewave-admin.php:105
+msgid "Plugin Successfully Activated."
+msgstr "Плагин успешно активирован."
+
+#: inc/admin/class-articlewave-admin.php:79
+#: inc/admin/class-articlewave-admin.php:177
+msgid "Plugin installed successfully"
+msgstr "Плагин успешно установлен"
+
+#: inc/admin/class-articlewave-admin.php:61
+#: inc/admin/class-articlewave-admin.php:158
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "Невозможно соединиться с файловой системой. Проверьте свои полномочия."
+
+#: inc/admin/class-articlewave-admin.php:23
+#: inc/admin/class-articlewave-admin.php:120
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "Вам не разрешено устанавливать плагины на этом сайте."
+
+#: header.php:68
+msgid "Menu"
+msgstr "Меню"
+
+#: header.php:34
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: functions.php:198
+msgid "Header Sidebar Toggle"
+msgstr "Тумблер боковой панели заголовка"
+
+#: functions.php:187
+msgid "Footer column four Widget Area"
+msgstr "Четвертый столбец области виджетов"
+
+#: functions.php:176
+msgid "Footer column three Widget Area"
+msgstr "Третий столбец области виджетов"
+
+#: functions.php:165
+msgid "Footer column two Widget Area"
+msgstr "Второй столбец области виджетов"
+
+#: functions.php:154
+msgid "Footer column one Widget Area"
+msgstr "Первый столбец области виджетов"
+
+#: functions.php:142
+msgid "Left sidebar"
+msgstr "Левая область виджетов"
+
+#: functions.php:132 functions.php:144
+msgid "Add widgets here."
+msgstr "Добавить виджеты здесь."
+
+#: functions.php:130
+msgid "Right sidebar"
+msgstr "Правая область виджетов"
+
+#: functions.php:54
+msgid "Primary"
+msgstr "Основной"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Один комментарий к &ldquo;%1$s&rdquo;"
+
+#: 404.php:30
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Похоже, в этом месте ничего не было найдено. Возможно, попробуйте одну из ссылок ниже или поиск?"
+
+#: 404.php:26
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Страница не найдена."
+
+#: 404.php:23
+msgid "404"
+msgstr "404"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://mysterythemes.com/wp-themes/articlewave/"
+msgstr "https://mysterythemes.com/wp-themes/articlewave/"
+
+#. Author URI of the theme
+#: template-parts/partials/footer/footer-text.php:20
+#, gp-priority: low
+msgid "https://mysterythemes.com/"
+msgstr "https://mysterythemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Mystery Themes"
+msgstr "Mystery Themes"

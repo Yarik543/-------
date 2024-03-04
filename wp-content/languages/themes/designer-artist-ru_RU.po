@@ -1,0 +1,3011 @@
+# Translation of Themes - Designer Artist in Russian
+# This file is distributed under the same license as the Themes - Designer Artist package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-02-25 09:56:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-beta.2\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Designer Artist\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Designer Artist is a professional website template designed specifically for artists and creatives who want to create an online presence for their work. The theme features a clean, modern, and professional design that looks good and functions well. Customization is made simple with a user-friendly interface, even for those without much web design experience. The theme offers a full-width header, perfect for showcasing images of your art or creative projects, and a catalog section to present your offerings in an organized and attractive manner. One of the key features of the Designer Artist is its responsiveness, ensuring that your website will look great on any device, including desktops, laptops, tablets, and smartphones. This is especially important for artists who want their work accessible from any device and reach a wider audience. The theme is designed to help increase your online visibility with the help of SEO optimization and attract more potential customers to your website. It offers several customization options, including custom colors, fonts, and the ability to upload your logo, which allows you to make your website unique and reflective of your brand. Overall, the Designer Artist is an excellent choice for artists and creatives who want to create an online presence for their work. With its clean, modern, professional design, user-friendly interface, and responsive layout, this theme offers everything you need to showcase your work and attract potential customers. Whether you're a professional artist or just starting, the Designer Artist provides a versatile and professional platform to help you achieve your goals. Demo: https://www.vwthemes.net/designer-artist/"
+msgstr "Designer Artist - это профессиональный шаблон сайта, разработанный специально для художников и творческих личностей, желающих представить свои работы в Интернете. Тема имеет чистый, современный и профессиональный дизайн, который хорошо выглядит и отлично функционирует. Удобный интерфейс упрощает настройку даже для тех, кто не имеет большого опыта в веб-дизайне. Тема предлагает заголовок во всю ширину сайта, который идеально подходит для демонстрации изображений ваших произведений искусства или творческих проектов, а также раздел каталога для организованного и привлекательного представления ваших предложений. Одной из ключевых особенностей темы Designer Artist является ее отзывчивость, благодаря которой ваш сайт будет отлично смотреться на любом устройстве, включая настольные компьютеры, ноутбуки, планшеты и смартфоны. Это особенно важно для художников, которые хотят, чтобы их работы были доступны с любого устройства и охватывали более широкую аудиторию. Тема разработана таким образом, чтобы с помощью SEO-оптимизации повысить узнаваемость сайта в Интернете и привлечь на него больше потенциальных клиентов. Она предлагает несколько вариантов настройки, включая пользовательские цвета, шрифты и возможность загрузки логотипа, что позволяет сделать ваш сайт уникальным и отражающим ваш бренд. В целом, Designer Artist - это отличный выбор для художников и творческих личностей, которые хотят создать онлайн-представительство для своей работы. Благодаря чистому, современному, профессиональному дизайну, удобному интерфейсу и отзывчивому макету эта тема предлагает все необходимое для демонстрации своих работ и привлечения потенциальных клиентов. Независимо от того, являетесь ли вы профессиональным художником или только начинаете свою деятельность, тема Designer Artist представляет собой универсальную и профессиональную платформу, которая поможет вам достичь своих целей. Демо-версия: https://www.vwthemes.net/designer-artist/"
+
+#. Theme Name of the theme
+#: inc/block-patterns/block-patterns.php:16
+#, gp-priority: high
+msgid "Designer Artist"
+msgstr "Designer Artist"
+
+#: inc/customizer.php:2916
+msgid "DESIGNER ARTIST PRO"
+msgstr "DESIGNER ARTIST PRO"
+
+#: inc/customizer.php:239
+msgid "Add Search Close Icon"
+msgstr "Добавить значок закрытия поиска"
+
+#: inc/customizer.php:226
+msgid "Add Search Open Icon"
+msgstr "Добавить значок открытия поиска"
+
+#: inc/customizer.php:190
+msgid "Add Cart Icon"
+msgstr "Значок Добавить в корзину"
+
+#: inc/customizer.php:137 inc/customizer.php:163
+msgid "Add Email Icon"
+msgstr "Добавить значок email"
+
+#: inc/customizer.php:437
+msgid "Add Button URL"
+msgstr "Добавить URL кнопки"
+
+#: sidebar.php:30
+msgid "Categories"
+msgstr "Рубрики"
+
+#: sidebar.php:12
+msgid "Search"
+msgstr "Поиск"
+
+#: inc/customizer.php:98
+msgid "Sticky Header Padding"
+msgstr "Внутренний отступ прилепленного заголовка"
+
+#: inc/customizer.php:89
+msgid "Sticky Header"
+msgstr "Прикрепленный заголовок"
+
+#: inc/customizer.php:2249
+msgid "Grid Featured Image Box Shadow"
+msgstr "Тень от блока изображений в сетке"
+
+#: inc/customizer.php:2233
+msgid "Grid Featured Image Border Radius"
+msgstr "Радиус рамки изображения записи в сетке"
+
+#: inc/customizer.php:2218
+msgid "Grid Post Content"
+msgstr "Содержимое записи в виде сетки"
+
+#: inc/customizer.php:2205
+msgid "[...]"
+msgstr "[...]"
+
+#: inc/customizer.php:2203
+msgid "Add Excerpt Suffix"
+msgstr "Добавить суффикс отрывка"
+
+#: inc/customizer.php:1379
+msgid "Four Columns"
+msgstr "Четыре столбца"
+
+#: inc/customizer.php:1378
+msgid "Three Columns"
+msgstr "Три столбца"
+
+#: functions.php:205
+msgid "Sidebar 3"
+msgstr "Область виджетов 3"
+
+#: inc/customizer.php:2177
+msgid "Display Grid Posts"
+msgstr "Отобразить записи сеткой"
+
+#: inc/customizer.php:1658
+msgid "Older Posts/Newer Posts"
+msgstr "Старые записи/Новые записи"
+
+#: inc/customizer.php:1657
+msgid "Numeric"
+msgstr "Цифры"
+
+#: inc/customizer.php:1655
+msgid "Blog Pagination"
+msgstr "Пагинации блога"
+
+#: inc/customizer.php:1644
+msgid "Show / Hide Blog Pagination"
+msgstr "Пагинация блога: показать/скрыть"
+
+#: inc/themes-widgets/contact-us-widget.php:87
+msgid "Contact Form Shortcode:"
+msgstr "Шорткод контактной формы:"
+
+#: inc/themes-widgets/contact-us-widget.php:83
+msgid "Latitude:"
+msgstr "Долгота:"
+
+#: inc/themes-widgets/contact-us-widget.php:79
+msgid "Longitude:"
+msgstr "Широта:"
+
+#: inc/themes-widgets/contact-us-widget.php:75
+msgid "Opening Time:"
+msgstr "Время открытия:"
+
+#: inc/themes-widgets/contact-us-widget.php:71
+msgid "Address:"
+msgstr "Адрес:"
+
+#: inc/themes-widgets/contact-us-widget.php:67
+msgid "Email id:"
+msgstr "ID Email:"
+
+#: inc/themes-widgets/contact-us-widget.php:63
+msgid "Phone Number:"
+msgstr "Номер телефона:"
+
+#: inc/themes-widgets/contact-us-widget.php:33
+msgid "Opening Time: "
+msgstr "Время открытия: "
+
+#: inc/themes-widgets/contact-us-widget.php:32
+msgid "Address: "
+msgstr "Адрес: "
+
+#: inc/themes-widgets/contact-us-widget.php:31
+msgid "Email ID: "
+msgstr "ID Email: "
+
+#: inc/themes-widgets/contact-us-widget.php:30
+msgid "Phone Number: "
+msgstr "Номер телефона: "
+
+#: inc/themes-widgets/contact-us-widget.php:11
+msgid "Widget for contact us section in sidebar"
+msgstr "Виджет для раздела Свяжитесь с нами в области виджетов"
+
+#: inc/themes-widgets/contact-us-widget.php:10
+msgid "VW Contact us"
+msgstr "Свяжитесь с нами: VW"
+
+#: inc/themes-widgets/about-us-widget.php:80
+msgid "Image Url:"
+msgstr "URL изображения:"
+
+#: inc/themes-widgets/about-us-widget.php:76
+msgid "Button Url:"
+msgstr "URL кнопки:"
+
+#: inc/themes-widgets/about-us-widget.php:72
+msgid "Button Text:"
+msgstr "Текст кнопки:"
+
+#: inc/themes-widgets/about-us-widget.php:68
+msgid "Description:"
+msgstr "Описание:"
+
+#: inc/themes-widgets/about-us-widget.php:64
+msgid "Designation:"
+msgstr "Должность:"
+
+#: inc/themes-widgets/about-us-widget.php:60
+msgid "Author Name:"
+msgstr "Имя автора:"
+
+#: inc/themes-widgets/about-us-widget.php:11
+msgid "Widget for about us section in sidebar"
+msgstr "Виджет для раздела О нас в области виджетов"
+
+#: inc/themes-widgets/about-us-widget.php:10
+msgid "VW About us"
+msgstr "О нас: VW"
+
+#: inc/customizer.php:67
+msgid "Header Image Position"
+msgstr "Позиция изображения заголовка"
+
+#: inc/getstart/getstart.php:197
+msgid "Click on Patterns Tab >> Click on Theme Name >> Click on Section >> Publish."
+msgstr "Нажмите вкладку Паттерны >> нажмите Название темы >> нажмите Разделы >> Опубликовать."
+
+#: inc/getstart/getstart.php:192
+msgid "Click on Below Add new page button >> Click on \"+\" Icon "
+msgstr "Нажмите ниже кнопку Добавить новую страницу >> Нажмите на \"+\" значка "
+
+#: inc/customizer.php:2834
+msgid "Show / Hide Related product"
+msgstr "Сопутствующий товар: показать/скрыть"
+
+#: inc/customizer.php:2657
+msgid "Show / Hide Single Product Sidebar"
+msgstr "Область виджетов отдельного товара: показать/скрыть"
+
+#: inc/customizer.php:2628
+msgid "Show / Hide Shop Page Sidebar"
+msgstr "Область виджетов страницы магазина: показать/скрыть"
+
+#: inc/customizer.php:2332
+msgid "Show / Hide Pre-Loader"
+msgstr "Анимация загрузки: показать/скрыть"
+
+#: inc/customizer.php:2320
+msgid "Show / Hide Animations"
+msgstr "Анимация: показать/скрыть"
+
+#: inc/customizer.php:2309
+msgid "Show / Hide Page Breadcrumb"
+msgstr "Навигационные цепочки страницы: показать/скрыть"
+
+#: inc/customizer.php:1967
+msgid "Show / Hide Category"
+msgstr "Рубрика: показать/скрыть"
+
+#: inc/customizer.php:1956
+msgid "Show / Hide Breadcrumb"
+msgstr "Навигационная цепочка: показать/скрыть"
+
+#: inc/customizer.php:1805
+msgid "Show / Hide Related Post"
+msgstr "Связанная запись: показать/скрыть"
+
+#: inc/customizer.php:1630
+msgid "Display Blog Posts"
+msgstr "Отображение записей в блоге"
+
+#: inc/customizer.php:1573 inc/customizer.php:1977
+msgid "Show / Hide Tags"
+msgstr "Метки: показать/скрыть"
+
+#: inc/customizer.php:1488
+msgid "Show / Hide Featured Image"
+msgstr "Изображение записи: показать/скрыть"
+
+#: inc/customizer.php:1478 inc/customizer.php:1946
+msgid "Show / Hide Time"
+msgstr "Время: показать/скрыть"
+
+#: inc/customizer.php:1455 inc/customizer.php:1923 inc/customizer.php:2142
+msgid "Show / Hide Comments"
+msgstr "Комментарии: показать/скрыть"
+
+#: inc/customizer.php:1432 inc/customizer.php:1900 inc/customizer.php:2119
+msgid "Show / Hide Author"
+msgstr "Автор: показать/скрыть"
+
+#: inc/customizer.php:1409 inc/customizer.php:1877 inc/customizer.php:2096
+msgid "Show / Hide Post Date"
+msgstr "Дата записи: показать/скрыть"
+
+#: inc/customizer.php:1132
+msgid "Show / Hide Footer Social Icon"
+msgstr "Значок соцсети в подвале: показать/скрыть"
+
+#: inc/customizer.php:2427
+msgid "Add Close Menu Icon"
+msgstr "Добавить значок Закрыть меню"
+
+#: inc/customizer.php:2414
+msgid "Add Open Menu Icon"
+msgstr "Добавить значок Открыть меню"
+
+#: inc/customizer.php:1190
+msgid "Copyright Font Weight"
+msgstr "Толщина шрифта авторского права"
+
+#: inc/customizer.php:1166
+msgid "Copyright Text Color"
+msgstr "Цвет текста авторского права"
+
+#: inc/customizer.php:613
+msgid "Add Slider Next Icon"
+msgstr "Добавить значок слайдера Далее"
+
+#: inc/customizer.php:599
+msgid "Add Slider Prev Icon"
+msgstr "Добавить значок слайдера Назад"
+
+#: inc/customizer.php:588
+msgid "Show / Hide Slider Arrows"
+msgstr "Стрелки слайдера: показать/скрыть"
+
+#: no-results.php:19
+msgid "Back to Home Page"
+msgstr "Вернуться на главную страницу"
+
+#: inc/customizer.php:2540
+msgid "Icon Padding"
+msgstr "Внутренний отступ значка"
+
+#: inc/customizer.php:2517
+msgid "Social Icons Settings"
+msgstr "Настройки значков соцсетей"
+
+#: inc/customizer.php:2483
+msgid "No Results Page Settings"
+msgstr "Настройки страницы Без результатов"
+
+#: inc/customizer.php:2446 inc/customizer.php:2493
+msgid "Add Title"
+msgstr "Добавить название"
+
+#: inc/customizer.php:2436
+msgid "404 Page Settings"
+msgstr "Настройки страницы 404"
+
+#: inc/customizer.php:78 inc/customizer.php:1059
+msgid "Bottom Right"
+msgstr "Внизу справа"
+
+#: inc/customizer.php:77 inc/customizer.php:1058
+msgid "Bottom"
+msgstr "Снизу"
+
+#: inc/customizer.php:76 inc/customizer.php:1057
+msgid "Bottom Left"
+msgstr "Внизу слева"
+
+#: inc/customizer.php:72 inc/customizer.php:1053
+msgid "Top Right"
+msgstr "Вверху справа"
+
+#: inc/customizer.php:71 inc/customizer.php:1052
+msgid "Top"
+msgstr "Сверху"
+
+#: inc/customizer.php:70 inc/customizer.php:1051
+msgid "Top Left"
+msgstr "Вверху слева"
+
+#: inc/customizer.php:1048
+msgid "Footer Image Position"
+msgstr "Позиция изображения подвала"
+
+#: 404.php:17 inc/customizer.php:2475
+msgid "GO BACK"
+msgstr "НАЗАД"
+
+#: inc/customizer.php:2359
+msgid "Preloader Background Image"
+msgstr "Фоновое изображение анимации загрузки"
+
+#: inc/customizer.php:2063
+msgid "Add Comment Button Text"
+msgstr "Текст кнопки Добавить комментарий"
+
+#: inc/customizer.php:2049
+msgid "Add Comment Title"
+msgstr "Добавить название комментария"
+
+#: inc/customizer.php:2037
+msgid "NEXT"
+msgstr "ДАЛЕЕ"
+
+#: inc/customizer.php:2024
+msgid "PREVIOUS"
+msgstr "НАЗАД"
+
+#: inc/customizer.php:2022 inc/customizer.php:2035
+msgid "Post Navigation Text"
+msgstr "Текст навигации по записям"
+
+#: inc/customizer.php:2010
+msgid "100%"
+msgstr "100%"
+
+#: inc/customizer.php:2008
+msgid "Enter a value in %. Example:50%"
+msgstr "Введите значение в %. Пример: 50%"
+
+#: inc/customizer.php:2007
+msgid "Comment Form Width"
+msgstr "Ширина формы комментариев"
+
+#: inc/customizer.php:56
+msgid "Header Background Color"
+msgstr "Цвет фона заголовка"
+
+#: comments.php:78 inc/customizer.php:2065
+msgid "Post Comment"
+msgstr "Отправить комментарий"
+
+#: comments.php:77 inc/customizer.php:2051
+msgid "Leave a Reply"
+msgstr "Добавить комментарий"
+
+#: inc/logo/logo-resizer.php:158
+msgid "Site Tagline Color"
+msgstr "Цвет описания сайта"
+
+#: inc/logo/logo-resizer.php:122
+msgid "Site Title Color"
+msgstr "Цвет названия сайта"
+
+#: inc/logo/logo-resizer.php:53
+msgid "Logo Height"
+msgstr "Высота логотипа"
+
+#: inc/logo/logo-resizer.php:40
+msgid "Logo Width"
+msgstr "Ширина логотипа"
+
+#: inc/getstart/getstart.php:33
+msgid "Buy Designer Artist at 20% Discount"
+msgstr "Купите Designer Artist со 20% скидкой"
+
+#: inc/customizer.php:2817
+msgid "Sale Border Radius"
+msgstr "Радиус рамки распродажи"
+
+#: inc/customizer.php:2802
+msgid "Sale Font Size"
+msgstr "Размер шрифта распродажи"
+
+#: inc/customizer.php:2789
+msgid "Sale Badge Position"
+msgstr "Позиция баннера распродажи"
+
+#: inc/customizer.php:2772
+msgid "Products Button Border Radius"
+msgstr "Радиус рамки кнопки товаров"
+
+#: inc/customizer.php:2757
+msgid "Products Button Padding Left Right"
+msgstr "Внутренний отступ справа и слева кнопки товаров"
+
+#: inc/customizer.php:2743
+msgid "Products Button Padding Top Bottom"
+msgstr "Внутренний отступ сверху и снизу кнопки товаров"
+
+#: inc/customizer.php:2728
+msgid "Products Border Radius"
+msgstr "Радиус рамки товаров"
+
+#: inc/customizer.php:2711
+msgid "Products Box Shadow"
+msgstr "Тень блока товаров"
+
+#: inc/customizer.php:2695
+msgid "Products Padding Left Right"
+msgstr "Внутренний отступ слева и справа товара"
+
+#: inc/customizer.php:2681
+msgid "Products Padding Top Bottom"
+msgstr "Внутренний отступ сверху и снизу товаров"
+
+#: inc/customizer.php:2607
+msgid "Shop Page Featured Image Box Shadow"
+msgstr "Тень блока изображений страницы страницы магазина"
+
+#: inc/customizer.php:2591
+msgid "Shop Page Featured Image Border Radius"
+msgstr "Радиус рамки изображения страницы на странице магазина"
+
+#: inc/customizer.php:1987
+msgid "Post Navigation"
+msgstr "Навигация по записям"
+
+#: inc/customizer.php:1841
+msgid "Related Posts Excerpt length"
+msgstr "Связанные записи: длина отрывка"
+
+#: inc/customizer.php:1757
+msgid "Button Letter Spacing"
+msgstr "Межбуквенное расстояние кнопки"
+
+#: inc/customizer.php:1634 inc/customizer.php:2181
+msgid "Without Blocks"
+msgstr "Без блоков"
+
+#: inc/customizer.php:1633 inc/customizer.php:2180
+msgid "Into Blocks"
+msgstr "В блоках"
+
+#: inc/customizer.php:1558
+msgid "Featured Image Custom Height"
+msgstr "Изображение записи с произвольной высотой"
+
+#: inc/customizer.php:1544
+msgid "Featured Image Custom Width"
+msgstr "Изображение записи с произвольной шириной"
+
+#: inc/customizer.php:1535
+msgid "Custom Image Size"
+msgstr "Пользовательский размер изображения"
+
+#: inc/customizer.php:1534
+msgid "Default"
+msgstr "По умолчанию"
+
+#: inc/customizer.php:1531
+msgid "Blog Post Featured Image Dimension"
+msgstr "Размер изображение записи блога"
+
+#: inc/customizer.php:1514
+msgid "Featured Image Box Shadow"
+msgstr "Тень блока изображения записи"
+
+#: inc/customizer.php:1498
+msgid "Featured Image Border Radius"
+msgstr "Радиус рамки изображения записи"
+
+#: inc/customizer.php:1465 inc/customizer.php:1933
+msgid "Add Time Icon"
+msgstr "Добавить значок времени"
+
+#: inc/customizer.php:1442 inc/customizer.php:1910 inc/customizer.php:2129
+msgid "Add Comments Icon"
+msgstr "Добавить значок комментариев"
+
+#: inc/customizer.php:1419 inc/customizer.php:1887 inc/customizer.php:2106
+msgid "Add Author Icon"
+msgstr "Добавить значок автора"
+
+#: inc/customizer.php:1396 inc/customizer.php:1864 inc/customizer.php:2083
+msgid "Add Post Date Icon"
+msgstr "Значок Добавить дату записи"
+
+#: inc/customizer.php:1157
+msgid "Copyright Background Color"
+msgstr "Цвет фона авторского права"
+
+#: inc/customizer.php:1148
+msgid "Show / Hide Copyright"
+msgstr "Авторское право: показать/скрыть"
+
+#: inc/customizer.php:1019
+msgid "Show / Hide Footer"
+msgstr "Подвал: показать/скрыть"
+
+#: inc/customizer.php:989
+msgid ""
+"<p>1. More options for instagram section.</p>\n"
+"\t\t\t<p>2. Unlimited images options.</p>\n"
+"\t\t\t<p>3. Color options for instagram section.</p>"
+msgstr ""
+"<p>1. Больше настроек для раздела Instagram.</p>\n"
+"\t\t\t<p>2. Неограниченные варианты изображений.</p>\n"
+"\t\t\t<p>3. Варианты цвета для раздела Instagram.</p>"
+
+#: inc/customizer.php:978
+msgid "Instagram Section"
+msgstr "Раздел Instagram"
+
+#: inc/customizer.php:959
+msgid ""
+"<p>1. More options for blogs section.</p>\n"
+"\t\t\t<p>2. Unlimited images options.</p>\n"
+"\t\t\t<p>3. Color options for blogs section.</p>"
+msgstr ""
+"<p>1. Больше настроек для раздела Блоги.</p>\n"
+"\t\t\t<p>2. Неограниченные варианты изображений.</p>\n"
+"\t\t\t<p>3. Варианты цвета для раздела блоги.</p>"
+
+#: inc/customizer.php:948
+msgid "Blogs Section"
+msgstr "Раздел Блоги"
+
+#: inc/customizer.php:929
+msgid ""
+"<p>1. More options for clients section.</p>\n"
+"\t\t\t<p>2. Unlimited images options.</p>\n"
+"\t\t\t<p>3. Color options for clients section.</p>"
+msgstr ""
+"<p>1. Больше настроек для раздела Клиенты.</p>\n"
+"\t\t\t<p>2. Неограниченные варианты изображений.</p>\n"
+"\t\t\t<p>3. Варианты цвета для раздела клиенты.</p>"
+
+#: inc/customizer.php:918
+msgid "Clients Section"
+msgstr "Раздел Клиенты"
+
+#: inc/customizer.php:899
+msgid ""
+"<p>1. More options for painting category section.</p>\n"
+"\t\t\t<p>2. Unlimited images options.</p>\n"
+"\t\t\t<p>3. Color options for painting category section.</p>"
+msgstr ""
+"<p>1. Больше настроек для раздела Рубрика живописи.</p>\n"
+"\t\t\t<p>2. Неограниченные варианты изображений.</p>\n"
+"\t\t\t<p>3. Варианты цвета для раздела рубрик живописи.</p>"
+
+#: inc/customizer.php:888
+msgid "Painting Category Section"
+msgstr "Раздел Рубрика живописи"
+
+#: inc/customizer.php:869
+msgid ""
+"<p>1. More options for team section.</p>\n"
+"\t\t\t<p>2. Unlimited images options.</p>\n"
+"\t\t\t<p>3. Color options for team section.</p>"
+msgstr ""
+"<p>1. Больше настроек для раздела Команда.</p>\n"
+"\t\t\t<p>2. Неограниченные возможности изображений.</p>\n"
+"\t\t\t<p>3. Варианты цветов для раздела команда.</p>"
+
+#: inc/customizer.php:858
+msgid "Team Section"
+msgstr "Раздел Команда"
+
+#: inc/customizer.php:839
+msgid ""
+"<p>1. More options for records section.</p>\n"
+"\t\t\t<p>2. Unlimited images options.</p>\n"
+"\t\t\t<p>3. Color options for records section.</p>"
+msgstr ""
+"<p>1. Больше настроек для раздела раздела Записи\".</p>\n"
+"\t\t\t<p>2. Неограниченные возможности изображений.</p>\n"
+"\t\t\t<p>3. Варианты цветов для раздела записи\".</p>"
+
+#: inc/customizer.php:828
+msgid "Records Section"
+msgstr "Раздел Записи"
+
+#: inc/customizer.php:809
+msgid ""
+"<p>1. More options for events section.</p>\n"
+"\t\t\t<p>2. Unlimited images options.</p>\n"
+"\t\t\t<p>3. Color options for events section.</p>"
+msgstr ""
+"<p>1. Больше настроек для раздела Мероприятия.</p>\n"
+"\t\t\t<p>2. Неограниченные варианты изображений.</p>\n"
+"\t\t\t<p>3. Варианты цвета для раздела мероприятия.</p>"
+
+#: inc/customizer.php:798
+msgid "Events Section"
+msgstr "Раздел мероприятий"
+
+#: inc/customizer.php:694
+msgid ""
+"<p>1. More options for about us section.</p>\n"
+"\t\t\t<p>2. Unlimited images options.</p>\n"
+"\t\t\t<p>3. Color options for about us section.</p>"
+msgstr ""
+"<p>1. Больше настроек для раздела О нас.</p>\n"
+"\t\t\t<p>2. Неограниченные варианты изображений.</p>\n"
+"\t\t\t<p>3. Варианты цвета для раздела о нас.</p>"
+
+#: inc/customizer.php:683
+msgid "About Us Section"
+msgstr "Раздел О нас"
+
+#: inc/customizer.php:664
+msgid ""
+"<p>1. More options for work section.</p>\n"
+"\t\t\t<p>2. Unlimited images options.</p>\n"
+"\t\t\t<p>3. Color options for work section.</p>"
+msgstr ""
+"<p>1. Больше настроек для раздела Работа.</p>\n"
+"\t\t\t<p>2. Неограниченные варианты изображений.</p>\n"
+"\t\t\t<p>3. Варианты цвета для раздела работа.</p>"
+
+#: inc/customizer.php:653
+msgid "Work Section"
+msgstr "Раздел Работа"
+
+#: inc/customizer.php:634
+msgid ""
+"<p>1. More options for features section.</p>\n"
+"\t\t\t<p>2. Unlimited images options.</p>\n"
+"\t\t\t<p>3. Color options for features section.</p>"
+msgstr ""
+"<p>1. Больше настроек для раздела Свойства.</p>\n"
+"\t\t\t<p>2. Неограниченные варианты изображений.</p>\n"
+"\t\t\t<p>3. Варианты цвета для раздела свойств.</p>"
+
+#: inc/customizer.php:624 inc/customizer.php:654 inc/customizer.php:684
+#: inc/customizer.php:799 inc/customizer.php:829 inc/customizer.php:859
+#: inc/customizer.php:889 inc/customizer.php:919 inc/customizer.php:949
+#: inc/customizer.php:979
+msgid "<p class=\"premium-opt\">Premium Theme Features</p>"
+msgstr "<p class=\"premium-opt\">Свойства премиум-темы</p>"
+
+#: inc/customizer.php:623
+msgid "Features Section"
+msgstr "Раздел Функции"
+
+#: inc/customizer.php:315
+msgid "Zoom In"
+msgstr "Увеличение"
+
+#: inc/customizer.php:314
+msgid "None"
+msgstr "Отсутствует"
+
+#: inc/customizer.php:312
+msgid "Menu Item Hover Style"
+msgstr "Стиль пункта меню при наведении"
+
+#: inc/customizer.php:295
+msgid "Menus Text Transform"
+msgstr "Преобразование текста меню"
+
+#: inc/customizer.php:284 inc/customizer.php:1201
+msgid "900"
+msgstr "900"
+
+#: inc/customizer.php:283 inc/customizer.php:1200
+msgid "800"
+msgstr "800"
+
+#: inc/customizer.php:282 inc/customizer.php:1199
+msgid "700"
+msgstr "700"
+
+#: inc/customizer.php:281 inc/customizer.php:1198
+msgid "600"
+msgstr "600"
+
+#: inc/customizer.php:280 inc/customizer.php:1197
+msgid "500"
+msgstr "500"
+
+#: inc/customizer.php:279 inc/customizer.php:1196
+msgid "400"
+msgstr "400"
+
+#: inc/customizer.php:278 inc/customizer.php:1195
+msgid "300"
+msgstr "300"
+
+#: inc/customizer.php:277 inc/customizer.php:1194
+msgid "200"
+msgstr "200"
+
+#: inc/customizer.php:276 inc/customizer.php:1193
+msgid "100"
+msgstr "100"
+
+#: inc/customizer.php:273
+msgid "Menus Font Weight"
+msgstr "Толщина шрифта меню"
+
+#: inc/customizer.php:257
+msgid "Menus Font Size"
+msgstr "Размер шрифта меню"
+
+#: inc/customizer.php:248
+msgid "Menus Settings"
+msgstr "Настройки меню"
+
+#: inc/icon-picker.php:18
+msgctxt "placeholder"
+msgid "Icon"
+msgstr "Значок"
+
+#: inc/customizer.php:2667
+msgid "Single Product Sidebar Layout"
+msgstr "Макет области виджетов отдельного товара"
+
+#: inc/customizer.php:2579
+msgid "WooCommerce Layout"
+msgstr "Макет WooCommerce"
+
+#: inc/customizer.php:1311
+msgid "Icon Border Radius"
+msgstr "Радиус рамки значка"
+
+#: inc/customizer.php:1296 inc/customizer.php:2568
+msgid "Icon Height"
+msgstr "Высота значка"
+
+#: inc/customizer.php:1283
+msgid "Enter a value in pixels Example:20px"
+msgstr "Введите значение в пикселях. Пример: 20px"
+
+#: inc/customizer.php:1282 inc/customizer.php:2554
+msgid "Icon Width"
+msgstr "Ширина значка"
+
+#: inc/customizer.php:1268
+msgid "Icon Top Bottom Padding"
+msgstr "Внутренний отступ сверху и снизу значка"
+
+#: inc/customizer.php:1254 inc/customizer.php:2526
+msgid "Icon Font Size"
+msgstr "Размер шрифта значка"
+
+#: inc/customizer.php:1242
+msgid "Add Scroll to Top Icon"
+msgstr "Добавить значок Прокрутить вверх"
+
+#: inc/customizer.php:1073
+msgid "scroll"
+msgstr "прокрутка"
+
+#: inc/customizer.php:1072
+msgid "fixed"
+msgstr "зафиксировать"
+
+#: inc/customizer.php:1070
+msgid "Footer Background Attatchment"
+msgstr "Прикрепление фона подвала"
+
+#: inc/customizer.php:572
+msgid "Slider Content Layouts"
+msgstr "Макет содержимого слайдера"
+
+#: inc/customizer.php:560
+msgid "Slider Image Overlay Color"
+msgstr "Цвет наложения изображения слайдера"
+
+#: inc/customizer.php:550
+msgid "Slider Image Overlay"
+msgstr "Наложение изображения слайдера"
+
+#: inc/customizer.php:526
+msgid "Slider Image Opacity"
+msgstr "Прозрачность изображения слайдера"
+
+#: inc/customizer.php:482
+msgid "Slider Excerpt length"
+msgstr "Длинна отрывка слайдера"
+
+#: inc/customizer.php:465
+msgid "Slider Content Padding Left Right"
+msgstr "Внутренний отступ содержимого слайдера слева и справа"
+
+#: inc/customizer.php:453 inc/customizer.php:468
+msgid "50%"
+msgstr "50%"
+
+#: inc/customizer.php:451 inc/customizer.php:466
+msgid "Enter a value in %. Example:20%"
+msgstr "Введите значение в %. Пример: 20%"
+
+#: inc/customizer.php:450
+msgid "Slider Content Padding Top Bottom"
+msgstr "Внутренний отступ сверху и снизу содержимого слайдера"
+
+#: inc/customizer.php:425
+msgid "Explore Now"
+msgstr "Исследуйте сейчас"
+
+#: inc/customizer.php:423
+msgid "Add Slider Button Text"
+msgstr "Добавить текст кнопки слайдера"
+
+#: inc/customizer.php:391
+msgid "Add Slider Shortcode"
+msgstr "Добавить шорткод слайдера"
+
+#: inc/customizer.php:382
+msgid "Advance slider"
+msgstr "Расширенный слайдер"
+
+#: inc/customizer.php:381
+msgid "Default slider"
+msgstr "Слайдер по умолчанию"
+
+#: inc/customizer.php:378
+msgid "Slider Type"
+msgstr "Тип слайдера"
+
+#: functions.php:196
+msgid "Appears on right side footer"
+msgstr "Появится в подвале справа"
+
+#: functions.php:195
+msgid "Footer Social Icon"
+msgstr "Значки соцсетей в подвале"
+
+#: inc/getstart/getstart.php:595
+msgid "Contact Us"
+msgstr "Свяжитесь с нами"
+
+#: inc/getstart/getstart.php:593
+msgid "If you have any queries after purchase, you can contact us. We are eveready to help you out."
+msgstr "Если у вас есть вопросы после покупки, вы можете связаться с нами. Мы всегда готовы помочь вам."
+
+#: inc/getstart/getstart.php:592
+msgid "Support Queries"
+msgstr "Запросы в поддержку"
+
+#: inc/getstart/getstart.php:587
+msgid "View FAQ"
+msgstr "Посмотрите FAQ"
+
+#: inc/getstart/getstart.php:585
+msgid "We have gathered top most, frequently asked questions and answered them for your easy understanding. We will list down more as we get new challenging queries. Check back often."
+msgstr "Мы собрали самые популярные, часто задаваемые вопросы и ответили на них, для того что бы вы лучше понимали. Мы будем добавлять больше ответов, поскольку у нас появятся новые интересные вопросы. Проверяйте их чаще."
+
+#: inc/getstart/getstart.php:584
+msgid "Frequently Asked Questions"
+msgstr "Часто задаваемые вопросы"
+
+#: inc/getstart/getstart.php:579
+msgid "About Child Theme"
+msgstr "О дочерней теме"
+
+#: inc/getstart/getstart.php:577
+msgid "For theme file customizations, make modifications in the child theme and not in the main theme file."
+msgstr "Для настроек файла темы внесите изменения в дочернюю тему, а не в файл основной темы."
+
+#: inc/getstart/getstart.php:576
+msgid "Child Theme"
+msgstr "Дочерняя тема"
+
+#: inc/getstart/getstart.php:572
+msgid "Question"
+msgstr "Вопрос"
+
+#: inc/getstart/getstart.php:570
+msgid "If you have any pre-sale query, we are prepared to resolve it."
+msgstr "Если у вас есть предпродажный вопрос, мы готовы на него ответить."
+
+#: inc/getstart/getstart.php:569
+msgid "Pre-purchase Queries"
+msgstr "Предпродажные вопросы"
+
+#: inc/getstart/getstart.php:565
+msgid "Get Pro"
+msgstr "Получить Pro"
+
+#: inc/getstart/getstart.php:563
+msgid "To gain access to extra theme options and more interesting features, upgrade to pro version."
+msgstr "Чтобы получить доступ к дополнительным параметрам темы и более интересным свойствами, выполните обновление до версии pro."
+
+#: inc/getstart/getstart.php:562
+msgid "Pro Version"
+msgstr "Версия Pro"
+
+#: inc/getstart/getstart.php:545
+msgid "Seamless Customer Support"
+msgstr "Полная поддержка клиентов"
+
+#: inc/getstart/getstart.php:540
+msgid "All Access Theme Pass"
+msgstr "Все темы доступны для перевода"
+
+#: inc/getstart/getstart.php:535
+msgid "Custom Feature Addition"
+msgstr "Добавление пользовательской функции"
+
+#: inc/getstart/getstart.php:530
+msgid "Priority Error Fixing"
+msgstr "Исправление приоритетной ошибки"
+
+#: inc/getstart/getstart.php:525
+msgid "Budget Friendly Value"
+msgstr "Бюджетная дружеская стоимость"
+
+#: inc/getstart/getstart.php:520
+msgid "Premium Membership"
+msgstr "Премиум членство"
+
+#: inc/getstart/getstart.php:515
+msgid "Custom Background, Colors, Header, Logo & Menu"
+msgstr "Пользовательский фон, цвета, заголовок, логотип и меню"
+
+#: inc/getstart/getstart.php:510
+msgid "Shortcodes"
+msgstr "Шорткоды"
+
+#: inc/getstart/getstart.php:505
+msgid "Support to add custom CSS / JS "
+msgstr "Поддержка добавления пользовательских CSS / JS "
+
+#: inc/getstart/getstart.php:500
+msgid "Simple & Mega Menu Option"
+msgstr "Настройки отдельного и мега меню"
+
+#: inc/getstart/getstart.php:495
+msgid "Gallery"
+msgstr "Галерея"
+
+#: inc/getstart/getstart.php:490
+msgid "Section Google Font Choices"
+msgstr "Раздел Выбор шрифтов Google"
+
+#: inc/getstart/getstart.php:485
+msgid "Section Enable / Disable"
+msgstr "Раздел вкл/откл"
+
+#: inc/getstart/getstart.php:480
+msgid "Exclusive Functionalities"
+msgstr "Эксклюзивные функции"
+
+#: inc/getstart/getstart.php:475
+msgid "Secure and Optimized Code"
+msgstr "Безопасный и оптимизированый код"
+
+#: inc/getstart/getstart.php:470
+msgid "Support 3rd Party Plugins"
+msgstr "Поддержка плагинов сторонних разработчиков"
+
+#: inc/getstart/getstart.php:465
+msgid "Woo-Commerce Compatibility"
+msgstr "Совместимость с WooCommerce"
+
+#: inc/getstart/getstart.php:460
+msgid "Latest WordPress Compatibility"
+msgstr "Совместимость с последними версиями WordPress"
+
+#: inc/getstart/getstart.php:455
+msgid "Full Documentation"
+msgstr "Полная документация"
+
+#: inc/getstart/getstart.php:450
+msgid "Enable Disable Options On All Sections, Logo"
+msgstr "Выключить/отключить настройки для всех разделов, логотипа"
+
+#: inc/getstart/getstart.php:445
+msgid "Allow To Set Site Title, Tagline, Logo"
+msgstr "Разрешить установку названия, краткого описания, логотипа сайта"
+
+#: inc/getstart/getstart.php:440
+msgid "Demo Importer"
+msgstr "Импортер демонстраций"
+
+#: inc/getstart/getstart.php:435
+msgid "Section Reordering"
+msgstr "Переупорядочивание разделов"
+
+#: inc/getstart/getstart.php:430
+msgid "Global Color Option"
+msgstr "Настройка глобального цвета"
+
+#: inc/getstart/getstart.php:425
+msgid "Color Pallete For Particular Sections"
+msgstr "Цветовая палитра для отдельных разделов"
+
+#: inc/getstart/getstart.php:422
+msgid "2(Left/Right Sidebar)"
+msgstr "2 (левая/правая область виджетов)"
+
+#: inc/getstart/getstart.php:420
+msgid "Page Templates & Layout"
+msgstr "Шаблон и макет страницы"
+
+#: inc/getstart/getstart.php:417
+msgid "3(Full width/Left/Right Sidebar)"
+msgstr "3 (во всю ширину/левая/правая область виджетов)"
+
+#: inc/getstart/getstart.php:415
+msgid "Blog Templates & Layout"
+msgstr "Шаблоны и макеты блога"
+
+#: inc/getstart/getstart.php:410
+msgid "Contact us Page Template"
+msgstr "Шаблон страницы Свяжитесь с нами"
+
+#: inc/getstart/getstart.php:407
+msgid "10"
+msgstr "10"
+
+#: inc/getstart/getstart.php:406
+msgid "2"
+msgstr "2"
+
+#: inc/getstart/getstart.php:405
+msgid "Theme sections"
+msgstr "Разделы темы"
+
+#: inc/getstart/getstart.php:401 inc/getstart/getstart.php:402
+#: inc/getstart/getstart.php:412
+msgid "1"
+msgstr "1"
+
+#: inc/getstart/getstart.php:400
+msgid "Home Page Template"
+msgstr "Шаблон главной страницы"
+
+#: inc/getstart/getstart.php:397
+msgid "6"
+msgstr "6"
+
+#: inc/getstart/getstart.php:395
+msgid "Template Pages"
+msgstr "Шаблон страниц"
+
+#: inc/getstart/getstart.php:392
+msgid "Unlimited"
+msgstr "Неограниченно"
+
+#: inc/getstart/getstart.php:391
+msgid "4"
+msgstr "4"
+
+#: inc/getstart/getstart.php:390
+msgid "Number of Slides"
+msgstr "Количество слайдов"
+
+#: inc/getstart/getstart.php:380
+msgid "Social Media Links"
+msgstr "Ссылки на соцсети"
+
+#: inc/getstart/getstart.php:375
+msgid "Logo Upload"
+msgstr "Загрузка логотипа"
+
+#: inc/getstart/getstart.php:370
+msgid "Responsive Design"
+msgstr "Адаптивный дизайн"
+
+#: inc/getstart/getstart.php:365
+msgid "Theme Customization"
+msgstr "Настройка темы"
+
+#: inc/getstart/getstart.php:360
+msgid "Premium Themes"
+msgstr "Премиум темы"
+
+#: inc/getstart/getstart.php:359
+msgid "Free Themes"
+msgstr "Бесплатные темы"
+
+#: inc/getstart/getstart.php:352
+msgid "Theme Features"
+msgstr "Возможности темы"
+
+#: inc/getstart/getstart.php:345
+msgid "Pro Documentation"
+msgstr "Документация Pro"
+
+#: inc/getstart/getstart.php:344
+msgid "Buy Pro"
+msgstr "Купить Pro"
+
+#: inc/getstart/getstart.php:343
+msgid "Live Demo"
+msgstr "Демонстрация в реальном времени"
+
+#: inc/getstart/getstart.php:341
+msgid "Designer Portfolio WordPress Theme $59 $40The Designer Portfolio WordPress Theme is the perfect solution for creative professionals looking to showcase their work in a modern, stylish, and professional way. With a clean and minimalist design, this theme provides the ideal platform to display your portfolio and make a lasting impression on potential clients and collaborators. The theme features a responsive design that will automatically adjust to any screen size, ensuring that your website will look great on any device, whether viewed on a desktop computer, tablet, or smartphone. The theme is also optimized for fast loading times, so visitors will not be left waiting for your website to load."
+msgstr "Тема Designer Portfolio WordPress Theme $59 $40Тема Designer Portfolio WordPress Theme - идеальное решение для творческих специалистов, желающих представить свои работы в современном, стильном и профессиональном виде. Благодаря чистому и минималистичному дизайну эта тема представляет собой идеальную платформу для демонстрации портфолио и производит неизгладимое впечатление на потенциальных клиентов и коллег. Тема имеет отзывчивый дизайн, который автоматически подстраивается под любой размер экрана, гарантируя, что ваш сайт будет отлично смотреться на любом устройстве, будь то настольный компьютер, планшет или смартфон. Тема также оптимизирована для быстрой загрузки, поэтому посетителям не придется ждать, пока ваш сайт загрузится."
+
+#: inc/getstart/getstart.php:338
+msgid "Premium Theme Information"
+msgstr "Информация о премиум теме"
+
+#: inc/getstart/getstart.php:194
+msgid "Add New Page"
+msgstr "Добавить страницу"
+
+#: inc/getstart/getstart.php:191
+msgid "Follow the below instructions to setup Home page with Block Patterns."
+msgstr "Следуйте приведённым ниже инструкциям, чтобы установить главную страницу с паттерном блока."
+
+#: inc/getstart/getstart.php:189
+msgid "Block Patterns"
+msgstr "Паттерны блока"
+
+#: inc/getstart/getstart.php:48
+msgid "Support"
+msgstr "Поддержка"
+
+#: inc/getstart/getstart.php:47
+msgid "Get Premium"
+msgstr "Получить Премиум"
+
+#: inc/getstart/getstart.php:44
+msgid "Setup With Block Pattern"
+msgstr "Установка с паттерном блока"
+
+#: inc/getstart/getstart.php:36 inc/getstart/getstart.php:552
+msgid "Upgrade to Pro"
+msgstr "Обновить до Pro"
+
+#: inc/getstart/getstart.php:34
+msgid "vwpro20"
+msgstr "vwpro20"
+
+#: inc/getstart/getstart.php:34
+msgid "Use Coupon"
+msgstr "Использовать купон"
+
+#: inc/customizer.php:2925
+msgid "DOCS"
+msgstr "Документация"
+
+#: inc/customizer.php:2924
+msgid "DOCUMENTATION"
+msgstr "ДОКУМЕНТАЦИЯ"
+
+#: inc/block-patterns/block-patterns.php:27
+msgid "Banner Section"
+msgstr "Раздел баннера"
+
+#: functions.php:422
+msgid "Designer Artist WordPress Theme"
+msgstr "Тема WordPress Дизайнер-художник"
+
+#: functions.php:417
+msgid "https://www.vwthemes.com/contact/"
+msgstr "https://www.vwthemes.com/contact/"
+
+#: functions.php:416
+msgid "https://developer.wordpress.org/themes/advanced-topics/child-themes/"
+msgstr "https://developer.wordpress.org/themes/advanced-topics/child-themes/"
+
+#: functions.php:415
+msgid "https://www.vwthemes.com/faqs/"
+msgstr "https://www.vwthemes.com/faqs/"
+
+#: functions.php:414
+msgid "https://preview.vwthemesdemo.com/docs/designer-portfolio-pro/"
+msgstr "https://preview.vwthemesdemo.com/docs/designer-portfolio-pro/"
+
+#: functions.php:413
+msgid "https://www.vwthemes.net/designer-portfolio/"
+msgstr "https://www.vwthemes.net/designer-portfolio/"
+
+#: functions.php:412
+msgid "https://www.vwthemes.com/themes/designer-portfolio-wordpress-theme/"
+msgstr "https://www.vwthemes.com/themes/designer-portfolio-wordpress-theme/"
+
+#: functions.php:97
+msgid "VIEW DEMO"
+msgstr "ПРОСМОТР ДЕМО"
+
+#: footer.php:61
+msgid "By VWThemes"
+msgstr "От VWThemes"
+
+#: woocommerce/checkout/form-checkout.php:52
+msgid "Your order"
+msgstr "Ваш заказ"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Вы должный войти на сайт, чтобы совершить покупку."
+
+#: template-parts/single-post-layout.php:75
+msgid "Previous post:"
+msgstr "Предыдущая запись:"
+
+#: template-parts/single-post-layout.php:72
+msgid "Next post:"
+msgstr "Следующая запись:"
+
+#: template-parts/single-post-layout.php:66
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Опубликовано в</span><span class=\"post-title\">%title</span>"
+
+#: template-parts/single-post-layout.php:46
+msgid "Categories:"
+msgstr "Рубрики:"
+
+#: template-parts/image-layout.php:33
+msgid "Edit"
+msgstr "Изменить"
+
+#: template-parts/image-layout.php:28
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: template-parts/header/navigation.php:26
+msgid "Close Button"
+msgstr "Кнопка Закрыть"
+
+#: template-parts/header/navigation.php:16
+msgid "Top Menu"
+msgstr "Верхнее меню"
+
+#: template-parts/header/navigation.php:13
+msgid "Open Button"
+msgstr "Кнопка Открыть"
+
+#: template-parts/content-audio.php:53 template-parts/content-gallery.php:42
+#: template-parts/content-image.php:40 template-parts/content-image.php:85
+#: template-parts/content-image.php:131 template-parts/content-video.php:53
+#: template-parts/content.php:40 template-parts/content.php:85
+#: template-parts/content.php:131 template-parts/grid-layout.php:37
+#: template-parts/single-post-layout.php:30
+msgid "% Comments"
+msgstr "Комментарии %"
+
+#: template-parts/content-audio.php:53 template-parts/content-gallery.php:42
+#: template-parts/content-image.php:40 template-parts/content-image.php:85
+#: template-parts/content-image.php:131 template-parts/content-video.php:53
+#: template-parts/content.php:40 template-parts/content.php:85
+#: template-parts/content.php:131 template-parts/grid-layout.php:37
+#: template-parts/single-post-layout.php:30
+msgid "0 Comments"
+msgstr "Нет комментариев"
+
+#: template-parts/content-audio.php:53 template-parts/content-gallery.php:42
+#: template-parts/content-image.php:40 template-parts/content-image.php:85
+#: template-parts/content-image.php:131 template-parts/content-video.php:53
+#: template-parts/content.php:40 template-parts/content.php:85
+#: template-parts/content.php:131 template-parts/grid-layout.php:37
+#: template-parts/single-post-layout.php:30
+msgid "0 Comment"
+msgstr "Нет комментария"
+
+#: sidebar.php:22
+msgid "Meta"
+msgstr "Мета"
+
+#: sidebar.php:16
+msgid "Archives"
+msgstr "Архивы"
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "Поиск…"
+
+#: searchform.php:11
+msgctxt "label"
+msgid "Search for:"
+msgstr "Найти:"
+
+#. translators: %s: search term
+#: search.php:13
+msgid "Results For: %s"
+msgstr "Результаты поиска: %s"
+
+#. Template Name of the theme
+msgid "Ibtana Page Template"
+msgstr "Шаблон страницы Ibtana"
+
+#. Template Name of the theme
+msgid "Custom Home Page"
+msgstr "Пользовательская главная страница"
+
+#: no-results.php:17
+msgid "Dont worry&hellip it happens to the best of us."
+msgstr "Не волнуйтесь, и это случилось с лучшими из нас."
+
+#: inc/customizer.php:2509 no-results.php:14
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "По вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: no-results.php:12
+msgid "Ready to publish your first post? Get started here."
+msgstr "Готовы опубликовать свою первую запись? Начните здесь."
+
+#: inc/customizer.php:2495 no-results.php:9
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: inc/typography/customize/control-typography.php:305
+msgid "Oblique"
+msgstr "Наклон"
+
+#: inc/typography/customize/control-typography.php:304
+msgid "Italic"
+msgstr "Курсив"
+
+#: inc/typography/customize/control-typography.php:302
+msgid "No Fonts Style"
+msgstr "Без стиля шрифта"
+
+#: inc/typography/customize/control-typography.php:288
+msgid "Ultra Bold"
+msgstr "Сверхжирный"
+
+#: inc/typography/customize/control-typography.php:287
+msgid "Bold"
+msgstr "Жирный"
+
+#: inc/typography/customize/control-typography.php:286
+msgid "Medium"
+msgstr "Средний"
+
+#: inc/typography/customize/control-typography.php:285
+#: inc/typography/customize/control-typography.php:303
+msgid "Normal"
+msgstr "Обычный"
+
+#: inc/typography/customize/control-typography.php:284
+msgid "Light"
+msgstr "Светлая"
+
+#: inc/typography/customize/control-typography.php:283
+msgid "Thin"
+msgstr "Тонкий"
+
+#: inc/typography/customize/control-typography.php:282
+msgid "No Fonts weight"
+msgstr "Без толщины шрифта"
+
+#: inc/typography/customize/control-typography.php:268
+msgid "Chewy"
+msgstr "Chewy"
+
+#: inc/typography/customize/control-typography.php:267
+msgid "Cookie"
+msgstr "Файлы cookie"
+
+#: inc/typography/customize/control-typography.php:266
+msgid "Cuprum"
+msgstr "Cuprum"
+
+#: inc/typography/customize/control-typography.php:265
+msgid "Crimson Text"
+msgstr "Crimson Text"
+
+#: inc/typography/customize/control-typography.php:264
+msgid "Cormorant Garamond"
+msgstr "Cormorant Garamond"
+
+#: inc/typography/customize/control-typography.php:263
+msgid "Cherry Swash"
+msgstr "Cherry Swash"
+
+#: inc/typography/customize/control-typography.php:262
+msgid "Courgette"
+msgstr "Courgette"
+
+#: inc/typography/customize/control-typography.php:261
+msgid "Cardo"
+msgstr "Cardo"
+
+#: inc/typography/customize/control-typography.php:260
+msgid "Cabin"
+msgstr "Cabin"
+
+#: inc/typography/customize/control-typography.php:259
+msgid "BenchNine"
+msgstr "BenchNine"
+
+#: inc/typography/customize/control-typography.php:258
+msgid "Bree Serif"
+msgstr "Bree Serif"
+
+#: inc/typography/customize/control-typography.php:257
+msgid "Bitter"
+msgstr "Bitter"
+
+#: inc/typography/customize/control-typography.php:256
+msgid "Bad Script"
+msgstr "Bad Script"
+
+#: inc/typography/customize/control-typography.php:255
+msgid "Boogaloo"
+msgstr "Boogaloo"
+
+#: inc/typography/customize/control-typography.php:254
+msgid "Bangers"
+msgstr "Bangers"
+
+#: inc/typography/customize/control-typography.php:253
+msgid "Averia Serif Libre"
+msgstr "Averia Serif Libre"
+
+#: inc/typography/customize/control-typography.php:252
+msgid "Alfa Slab One"
+msgstr "Alfa Slab One"
+
+#: inc/typography/customize/control-typography.php:251
+msgid "Alegreya"
+msgstr "Alegreya"
+
+#: inc/typography/customize/control-typography.php:250
+msgid "Arvo"
+msgstr "Arvo"
+
+#: inc/typography/customize/control-typography.php:249
+msgid "Arsenal"
+msgstr "Arsenal"
+
+#: inc/typography/customize/control-typography.php:248
+msgid "Arimo"
+msgstr "Arimo"
+
+#: inc/typography/customize/control-typography.php:247
+msgid "Architects Daughter"
+msgstr "Architects Daughter"
+
+#: inc/typography/customize/control-typography.php:246
+msgid "Anton"
+msgstr "Anton"
+
+#: inc/typography/customize/control-typography.php:245
+msgid "Acme"
+msgstr "Acme"
+
+#: inc/typography/customize/control-typography.php:244
+msgid "Abril Fatface"
+msgstr "Abril Fatface"
+
+#: inc/typography/customize/control-typography.php:243
+msgid "No Fonts"
+msgstr "Без шрифта"
+
+#: inc/typography/customize/control-typography.php:54
+msgid "Letter Spacing"
+msgstr "Межбуквенное расстояние"
+
+#: inc/typography/customize/control-typography.php:53
+msgid "Line Height"
+msgstr "Высота строки"
+
+#: inc/typography/customize/control-typography.php:52
+msgid "Font Style"
+msgstr "Стиль шрифта"
+
+#: inc/typography/customize/control-typography.php:51
+msgid "Font Weight"
+msgstr "Толщина шрифта"
+
+#: inc/typography/customize/control-typography.php:50
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: inc/typography/customize/control-typography.php:49
+msgid "Font Family"
+msgstr "Семейство шрифтов"
+
+#: inc/typography/customize/control-typography.php:48
+msgid "Font Color"
+msgstr "Цвет шрифта"
+
+#: inc/typography/ctypo.php:347
+msgid "Heading 6"
+msgstr "Заголовок 6"
+
+#: inc/typography/ctypo.php:342 inc/typography/ctypo.php:348
+msgid "Select how heading 6 should appear."
+msgstr "Выберите способ отображения заголовка 6."
+
+#: inc/typography/ctypo.php:341
+msgid "Heading 6 Color"
+msgstr "Цвет заголовка 6"
+
+#: inc/typography/ctypo.php:320
+msgid "Heading 5"
+msgstr "Заголовок 5"
+
+#: inc/typography/ctypo.php:315 inc/typography/ctypo.php:321
+msgid "Select how heading 5 should appear."
+msgstr "Выберите способ отображения заголовка 5."
+
+#: inc/typography/ctypo.php:314
+msgid "Heading 5 Color"
+msgstr "Цвет заголовка 5"
+
+#: inc/typography/ctypo.php:293
+msgid "Heading 4"
+msgstr "Заголовок 4"
+
+#: inc/typography/ctypo.php:288 inc/typography/ctypo.php:294
+msgid "Select how heading 4 should appear."
+msgstr "Выберите способ отображения заголовка 4."
+
+#: inc/typography/ctypo.php:287
+msgid "Heading 4 Color"
+msgstr "Цвет заголовка 4"
+
+#: inc/typography/ctypo.php:266
+msgid "Heading 3"
+msgstr "Заголовок 3"
+
+#: inc/typography/ctypo.php:261 inc/typography/ctypo.php:267
+msgid "Select how heading 3 should appear."
+msgstr "Выберите способ отображения заголовка 3."
+
+#: inc/typography/ctypo.php:260
+msgid "Heading 3 Color"
+msgstr "Цвет заголовка 3"
+
+#: inc/typography/ctypo.php:239
+msgid "Heading 2"
+msgstr "Заголовок 2"
+
+#: inc/typography/ctypo.php:234 inc/typography/ctypo.php:240
+msgid "Select how heading 2 should appear."
+msgstr "Выберите способ отображения заголовка 2."
+
+#: inc/typography/ctypo.php:233
+msgid "Heading 2 Color"
+msgstr "Цвет заголовка 2"
+
+#: inc/typography/ctypo.php:212
+msgid "Heading 1"
+msgstr "Заголовок 1"
+
+#: inc/typography/ctypo.php:207 inc/typography/ctypo.php:213
+msgid "Select how heading 1 should appear."
+msgstr "Выберите способ отображения заголовка 1."
+
+#: inc/typography/ctypo.php:206
+msgid "Heading 1 Color"
+msgstr "Цвет заголовка 1"
+
+#: inc/typography/ctypo.php:185
+msgid "Anchor Tag Typography"
+msgstr "Типографика метки якоря"
+
+#: inc/typography/ctypo.php:180 inc/typography/ctypo.php:186
+msgid "Select how you want your a tag to appear."
+msgstr "Выберите способ отображения метки."
+
+#: inc/typography/ctypo.php:179
+msgid "Anchor Tag Color"
+msgstr "Цвет метки якоря"
+
+#: inc/typography/ctypo.php:158
+msgid "Paragraph Typography"
+msgstr "Типографика абзаца"
+
+#: inc/typography/ctypo.php:153 inc/typography/ctypo.php:159
+msgid "Select how you want your paragraphs to appear."
+msgstr "Выберите способ отображения абзацев."
+
+#: inc/typography/ctypo.php:152
+msgid "Paragraph Color"
+msgstr "Цвет абзаца"
+
+#: inc/typography/ctypo.php:61
+msgid "Second Color"
+msgstr "Второй цвет"
+
+#: inc/typography/ctypo.php:51 inc/typography/ctypo.php:62
+msgid "It will change the highlight color in one click."
+msgstr "Это изменит цвет выделения в один клик."
+
+#: inc/typography/ctypo.php:50
+msgid "First Color"
+msgstr "Первый цвет"
+
+#: inc/typography/ctypo.php:42
+msgid "Global Color"
+msgstr "Глобальный цвет"
+
+#: inc/typography/ctypo.php:37
+msgid "Headings Typography"
+msgstr "Типографика заголовков"
+
+#: inc/typography/ctypo.php:32
+msgid "Content Typography"
+msgstr "Типографика содержимого"
+
+#: inc/typography/ctypo.php:27
+msgid "Theme Typography"
+msgstr "Типографика темы"
+
+#: inc/themes-widgets/social-icon.php:91
+msgid "Youtube:"
+msgstr "YouTube:"
+
+#: inc/themes-widgets/social-icon.php:87
+msgid "Tumblr:"
+msgstr "Tumblr:"
+
+#: inc/themes-widgets/social-icon.php:83
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+#: inc/themes-widgets/social-icon.php:79
+msgid "Instagram:"
+msgstr "Instagram:"
+
+#: inc/themes-widgets/social-icon.php:75
+msgid "Linkedin:"
+msgstr "Linkedin:"
+
+#: inc/themes-widgets/social-icon.php:71
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: inc/themes-widgets/social-icon.php:67
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: inc/themes-widgets/about-us-widget.php:56
+#: inc/themes-widgets/contact-us-widget.php:59
+#: inc/themes-widgets/social-icon.php:63
+msgid "Title:"
+msgstr "Название:"
+
+#: inc/themes-widgets/social-icon.php:41
+msgid "Youtube"
+msgstr "YouTube"
+
+#: inc/themes-widgets/social-icon.php:39
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/themes-widgets/social-icon.php:37
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/themes-widgets/social-icon.php:35
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/themes-widgets/social-icon.php:33
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: inc/themes-widgets/social-icon.php:31
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/themes-widgets/social-icon.php:29
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/themes-widgets/social-icon.php:11
+msgid "Widget for Social icons section"
+msgstr "Виджет для раздела значков соцсетей"
+
+#: inc/themes-widgets/social-icon.php:10
+msgid "VW Social Icon"
+msgstr "Значок соцсети VW"
+
+#: inc/tgm/tgm.php:24
+msgid "Woocommerce"
+msgstr "WooCommerce"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Все установки завершены."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s успешно установлен."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Начался процесс установки, он может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Все установки и активации были завершены."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Скрыть детали"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Показать подробности"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s успешно установлен и активирован."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Началась установка и активация. Этот процесс может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не удалась."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Возникла ошибка при установке %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновление плагина %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Активация плагина не удалась."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Сейчас нет доступных плагинов для активации."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Не выбрано плагинов для активации. Действий не требуется."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Сейчас нет доступных плагинов для обновления."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Сейчас нет доступных плагинов для установки."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Не выбрано плагинов для обновления. Действий не требуется."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Не выбрано плагинов для установки. Действий не требуется."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Обновить"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Установить"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Сообщение об обновлении от автора плагина:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Активировать %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Обновить %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Установить %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Статус"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Тип"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Источник"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Плагин"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Нет плагинов для установки, обновления или активации."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Доступная версия:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Миним. необходимая версия:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Установленная версия:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "неизвестна"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Для активации <span class=\"count\">(%s)</span>"
+msgstr[1] "Для активации <span class=\"count\">(%s)</span>"
+msgstr[2] "Для активации <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Доступно обновление <span class=\"count\">(%s)</span>"
+msgstr[1] "Доступны обновления <span class=\"count\">(%s)</span>"
+msgstr[2] "Доступны обновлений <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Для установки <span class=\"count\">(%s)</span>"
+msgstr[1] "Для установки <span class=\"count\">(%s)</span>"
+msgstr[2] "Для установки <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все <span class=\"count\">(%s)</span>"
+msgstr[1] "Все <span class=\"count\">(%s)</span>"
+msgstr[2] "Все <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Рекомендуется обновление"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Требуется обновление"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Требуемое обновление недоступно"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Установлен, но не активирован"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованный"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Внешний источник"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Репозиторий WordPress"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Рекомендуется"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Требуется"
+
+#. translators: %s: version number
+#: inc/tgm/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:1121
+#: inc/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "и"
+
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Пакет удаленного плагина состоит из нескольких файлов, но файлы не упакованы в папку."
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Свяжитесь с поставщиком плагина и попросите его упаковать плагин в соответствии с рекомендациями WordPress."
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "В пакете удаленного плагина нет папки с нужным ярлыком и переименование не помогло."
+
+#: inc/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Требуется обновление"
+
+#: inc/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Этот плагин необходимо обновить, чтобы он был совместим с вашей темой."
+
+#: inc/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Обратитесь за помощью к админу этого сайта."
+
+#: inc/tgm/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Имеются один или более требуемых или рекомендуемых плагинов для установки, обновления или активации."
+
+#: inc/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Отклонить это уведомление"
+
+#. translators: 1: dashboard link.
+#: inc/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины успешно установлены и активированы. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Плагин не активирован. Тема требует более новую версию %s. Обновите плагин."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Действие не требовалось. Плагин %1$s уже активен."
+
+#: inc/tgm/class-tgm-plugin-activation.php:388
+#: inc/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Следующий плагин был успешно активирован:"
+msgstr[1] "Следующих плагина были успешно активированы:"
+msgstr[2] "Следующих плагинов были успешно активированы:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:387
+#: inc/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Плагин успешно активирован."
+
+#: inc/tgm/class-tgm-plugin-activation.php:386
+#: inc/tgm/class-tgm-plugin-activation.php:827
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+#: inc/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Вернуться в консоль"
+
+#: inc/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установке требуемых плагинов"
+
+#: inc/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Начать активацию плагина"
+msgstr[1] "Начать активацию плагинов"
+msgstr[2] "Начать активацию плагинов"
+
+#: inc/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Начать обновление плагина"
+msgstr[1] "Начать обновление плагинов"
+msgstr[2] "Начать обновление плагинов"
+
+#: inc/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начать установку плагина"
+msgstr[1] "Начать установку плагинов"
+msgstr[2] "Начать установку плагинов"
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Следующий рекомендуемый плагин в настоящее время неактивен: %1$s."
+msgstr[1] "Следующих рекомендуемых плагина в настоящее время неактивны: %1$s."
+msgstr[2] "Следующих рекомендуемых плагина в настоящее время неактивны: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Следующий требуемый плагин в настоящее время не активен: %1$s."
+msgstr[1] "Следующие требуемые плагины в настоящее время не активны: %1$s."
+msgstr[2] "Следующие требуемые плагины в настоящее время не активны: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Доступно обновление плагина: %1$s."
+msgstr[1] "Доступны обновления плагинов: %1$s."
+msgstr[2] "Доступны обновления плагинов: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Для обеспечения максимальной совместимости с данной темой необходимо обновить следующий плагин до последней версии: %1$s."
+msgstr[1] "Для обеспечения максимальной совместимости с данной темой необходимо обновить следующих плагина до последней версии: %1$s."
+msgstr[2] "Для обеспечения максимальной совместимости с данной темой необходимо обновить следующих плагинов до последней версии: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Для этой темы рекомендуется следующий плагин: %1$s."
+msgstr[1] "Для этой темы рекомендуются следующие плагины: %1$s."
+msgstr[2] "Для этой темы рекомендуются следующие плагины: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Эта тема требует следующий плагин: %1$s."
+msgstr[1] "Эта тема требует следующих плагинов: %1$s."
+msgstr[2] "Эта тема требует следующих плагинов: %1$s."
+
+#: inc/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагина."
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Обновление плагина: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#: inc/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Установить требуемые плагины"
+
+#: inc/logo/logo-resizer.php:143
+msgid "Site Tagline Font Size"
+msgstr "Размер шрифта описания сайта"
+
+#: inc/logo/logo-resizer.php:134
+msgid "Show / Hide Site Tagline"
+msgstr "Краткое описание сайта: показать/скрыть"
+
+#: inc/logo/logo-resizer.php:107
+msgid "Site Title Font Size"
+msgstr "Размер шрифта названия сайта"
+
+#: inc/logo/logo-resizer.php:97
+msgid "Show / Hide Site Title"
+msgstr "Название сайта: показать/скрыть"
+
+#: inc/logo/logo-resizer.php:80
+msgid "Logo Margin"
+msgstr "Внешний отступ логотипа"
+
+#: inc/logo/logo-resizer.php:66
+msgid "Logo Padding"
+msgstr "Внутренний отступ логотипа"
+
+#: inc/logo/logo-resizer.php:19
+msgid "Logo Size"
+msgstr "Размер логотипа"
+
+#: inc/getstart/plugin-activation.php:243
+msgid "It is recommended that you install the Ibtana - Ecommerce Product Addons plugin to show advance Products blocks and templates on pages"
+msgstr "Рекомендуется установить плагин Ibtana - Ecommerce Product Addons, чтобы на страницах отображались блоки и шаблоны \"Товары\""
+
+#: inc/getstart/plugin-activation.php:240 inc/tgm/tgm.php:17
+msgid "Ibtana - Ecommerce Product Addons"
+msgstr "Ibtana - Ecommerce Product Addons"
+
+#: inc/getstart/plugin-activation.php:155
+#: inc/getstart/plugin-activation.php:353
+#: inc/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Активный"
+
+#: inc/getstart/plugin-activation.php:152
+#: inc/getstart/plugin-activation.php:350
+#: inc/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Активировать"
+
+#: inc/getstart/plugin-activation.php:150
+#: inc/getstart/plugin-activation.php:348
+msgid "Activate %s Now"
+msgstr "Активировать %s сейчас"
+
+#: inc/getstart/plugin-activation.php:133
+#: inc/getstart/plugin-activation.php:331
+msgid "Install & Activate"
+msgstr "Установить и активировать"
+
+#: inc/getstart/plugin-activation.php:131
+#: inc/getstart/plugin-activation.php:329
+msgid "Install %s Now"
+msgstr "Установить %s сейчас"
+
+#: inc/getstart/plugin-activation.php:57 inc/getstart/plugin-activation.php:255
+msgid "Error"
+msgstr "Ошибка"
+
+#: inc/getstart/plugin-activation.php:56 inc/getstart/plugin-activation.php:254
+msgid "Activating"
+msgstr "Активация"
+
+#: inc/getstart/plugin-activation.php:55 inc/getstart/plugin-activation.php:253
+msgid "Installing"
+msgstr "Установка"
+
+#: inc/getstart/plugin-activation.php:45
+msgid "It is recommended that you install the Ibtana - WordPress Website Builder plugin to show advance blocks and templates on pages"
+msgstr "Рекомендуется установить плагин Ibtana - WordPress Website Builder для отображения на страницах продвинутых блоков и шаблонов"
+
+#: inc/getstart/plugin-activation.php:42 inc/tgm/tgm.php:10
+msgid "Ibtana - WordPress Website Builder"
+msgstr "Ibtana - WordPress Website Builder"
+
+#: inc/getstart/getstart.php:332
+msgid "You can create a template as you like."
+msgstr "Вы можете создать шаблон, как вам нравится."
+
+#: inc/getstart/getstart.php:330
+msgid "Woocommerce Templates"
+msgstr "Шаблоны Woocommerce"
+
+#: inc/getstart/getstart.php:328
+msgid "2. Go To Dashboard >> Ibtana Settings >> Woocommerce Templates"
+msgstr "2. Перейдите в консоль >> Настройки Ibtana >> Шаблоны Woocommerce"
+
+#: inc/getstart/getstart.php:326
+msgid "3. Woocommerce"
+msgstr "3. WooCommerce"
+
+#: inc/getstart/getstart.php:325
+msgid "2. Ibtana - Ecommerce Product Addons."
+msgstr "2. Ibtana - Ecommerce Product Addons."
+
+#: inc/getstart/getstart.php:324
+msgid "1. Ibtana - WordPress Website Builder "
+msgstr "1. Ibtana - WordPress Website Builder "
+
+#: inc/getstart/getstart.php:323
+msgid "1. First you need to activate these plugins"
+msgstr "1. Сначала вам нужно активировать эти плагины"
+
+#: inc/getstart/getstart.php:322
+msgid "Follow the below instructions to setup Products Templates."
+msgstr "Следуйте приведённым ниже инструкциям, чтобы установить шаблоны товара."
+
+#: inc/getstart/getstart.php:319
+msgid "Woocommerce Products Blocks"
+msgstr "Блоки товаров Woocommerce"
+
+#: inc/getstart/getstart.php:259
+msgid "Ibtana Settings"
+msgstr "Настройки Ibtana"
+
+#: inc/getstart/getstart.php:256
+msgid "Gutunberg Blocks"
+msgstr "Блоки Gutenberg"
+
+#: inc/getstart/getstart.php:161
+msgid " Once you are done with setup, then follow the"
+msgstr " После того, как вы закончите установку, следуйте"
+
+#: inc/getstart/getstart.php:159
+msgid "Select the option of Static Page, now select the page you created to be the homepage, while another page to be your default page."
+msgstr "Выберите вариант Статическая страница, теперь выберите страницу, которую вы создали в качестве главной страницы, а другую страницу — в качестве страницы по умолчанию."
+
+#: inc/getstart/getstart.php:158
+msgid " Settings >> Reading "
+msgstr " Настройки >> Чтение "
+
+#: inc/getstart/getstart.php:157
+msgid "2. Set the front page:"
+msgstr "2. Установите главную страницу:"
+
+#: inc/getstart/getstart.php:155
+msgid "Name it as \"Home\" then select the template \"Custom Home Page\"."
+msgstr "Назовите как \"Главная\", затем выберите шаблон \"Пользовательская главная страница\"."
+
+#: inc/getstart/getstart.php:154
+msgid " Dashboard >> Pages >> Add New Page"
+msgstr " Консоль >> Страницы >> Добавить новую страницу"
+
+#: inc/getstart/getstart.php:153 inc/getstart/getstart.php:157
+msgid " Go to "
+msgstr " Перейти "
+
+#: inc/getstart/getstart.php:153
+msgid "1. Create a new page :"
+msgstr "1. Создайте новую страницу:"
+
+#: inc/getstart/getstart.php:152
+msgid "Follow these instructions to setup Home page."
+msgstr "Следуйте этим инструкциям, чтобы установить главную страницу."
+
+#: inc/getstart/getstart.php:150
+msgid "How to set up Home Page Template"
+msgstr "Как настроить шаблон главной страницы"
+
+#: inc/getstart/getstart.php:143 inc/getstart/getstart.php:219
+#: inc/getstart/getstart.php:281
+msgid "Footer Text"
+msgstr "Текст в подвале"
+
+#: inc/getstart/getstart.php:134 inc/getstart/getstart.php:228
+#: inc/getstart/getstart.php:290
+msgid "Footer Widget"
+msgstr "Виджет подвала"
+
+#: inc/getstart/getstart.php:131 inc/getstart/getstart.php:215
+#: inc/getstart/getstart.php:277
+msgid "Menus"
+msgstr "Меню"
+
+#: inc/block-patterns/block-patterns.php:36 inc/getstart/getstart.php:125
+msgid "Product Section"
+msgstr "Раздел Товар"
+
+#: inc/getstart/getstart.php:116 inc/getstart/getstart.php:210
+#: inc/getstart/getstart.php:272
+msgid "Post settings"
+msgstr "Настройки записи"
+
+#: inc/getstart/getstart.php:113 inc/getstart/getstart.php:207
+#: inc/getstart/getstart.php:269
+msgid "Upload your logo"
+msgstr "Загрузить логотип"
+
+#: inc/getstart/getstart.php:108 inc/getstart/getstart.php:202
+#: inc/getstart/getstart.php:264
+msgid "Link to customizer"
+msgstr "Ссылка на настройку темы"
+
+#: inc/getstart/getstart.php:104
+msgid "Reviews"
+msgstr "Отзывы"
+
+#: inc/getstart/getstart.php:102
+msgid "All the features and aspects of this WordPress Theme are phenomenal. I'd recommend this theme to all."
+msgstr "Все свойства и аспекты этой WordPress темы феноменальны. Я бы рекомендовал эту тему всем."
+
+#: inc/getstart/getstart.php:101
+msgid "Reviews & Testimonials"
+msgstr "Обзоры и отзывы"
+
+#: inc/getstart/getstart.php:98
+msgid "Support Forum"
+msgstr "Форум поддержки"
+
+#: inc/getstart/getstart.php:96
+msgid "Our dedicated team is well prepared to help you out in case of queries and doubts regarding our theme."
+msgstr "Наша целеустремленная команда хорошо подготовлена, чтобы помочь вам в случае вопросов и сомнений относительно нашей темы."
+
+#: inc/getstart/getstart.php:95
+msgid "Having Trouble, Need Support?"
+msgstr "Проблемы, нужна в поддержка?"
+
+#: inc/getstart/getstart.php:92
+msgid "Customizing"
+msgstr "Индивидуализация"
+
+#: inc/getstart/getstart.php:90
+msgid "To begin customizing your website, start by clicking \"Customize\"."
+msgstr "Чтобы начать настройку своего сайта, начните с нажатия «Настроить»."
+
+#: inc/getstart/getstart.php:89
+msgid "Theme Customizer"
+msgstr "Настройщик темы"
+
+#: inc/getstart/getstart.php:86 inc/getstart/getstart.php:161
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/getstart/getstart.php:84
+msgid "If you need any assistance regarding setting up and configuring the Theme, our documentation is there."
+msgstr "Если вам нужна помощь в установке и настройке темы, тут наша документация."
+
+#: inc/getstart/getstart.php:83
+msgid "Theme Documentation"
+msgstr "Документация к теме"
+
+#: inc/getstart/getstart.php:81
+msgid "Designer Artist is a professional website template designed specifically for artists and creatives who want to create an online presence for their work. The theme features a clean, modern, and professional design that looks good and functions well. Customization is made simple with a user-friendly interface, even for those without much web design experience. The theme offers a full-width header, perfect for showcasing images of your art or creative projects, and a catalog section to present your offerings in an organized and attractive manner. One of the key features of the Designer Artist is its responsiveness, ensuring that your website will look great on any device, including desktops, laptops, tablets, and smartphones. This is especially important for artists who want their work accessible from any device and reach a wider audience. The theme is designed to help increase your online visibility with the help of SEO optimization and attract more potential customers to your website. It offers several customization options, including custom colors, fonts, and the ability to upload your logo, which allows you to make your website unique and reflective of your brand. Overall, the Designer Artist is an excellent choice for artists and creatives who want to create an online presence for their work. With its clean, modern, professional design, user-friendly interface, and responsive layout, this theme offers everything you need to showcase your work and attract potential customers. Whether youre a professional artist or just starting, the Designer Artist provides a versatile and professional platform to help you achieve your goals."
+msgstr "Designer Artist - это профессиональный шаблон сайта, разработанный специально для художников и творческих личностей, желающих представить свои работы в Интернете. Тема имеет чистый, современный и профессиональный дизайн, который хорошо выглядит и отлично функционирует. Удобный интерфейс упрощает настройку даже для тех, кто не имеет большого опыта в веб-дизайне. Тема предлагает заголовок во всю ширину сайта, который идеально подходит для демонстрации изображений ваших произведений искусства или творческих проектов, а также раздел каталога для организованного и привлекательного представления ваших предложений. Одной из ключевых особенностей темы Designer Artist является ее отзывчивость, благодаря которой ваш сайт будет отлично смотреться на любом устройстве, включая настольные компьютеры, ноутбуки, планшеты и смартфоны. Это особенно важно для художников, которые хотят, чтобы их работы были доступны с любого устройства и охватывали более широкую аудиторию. Тема разработана таким образом, чтобы с помощью SEO-оптимизации повысить узнаваемость сайта в Интернете и привлечь на него больше потенциальных клиентов. Она предлагает несколько вариантов настройки, включая пользовательские цвета, шрифты и возможность загрузки логотипа, что позволяет сделать ваш сайт уникальным и отражающим ваш бренд. В целом, Designer Artist - это отличный выбор для художников и творческих личностей, которые хотят создать онлайн-представительство для своей работы. Благодаря чистому, современному, профессиональному дизайну, удобному интерфейсу и отзывчивому макету эта тема предлагает все необходимое для демонстрации своих работ и привлечения потенциальных клиентов. Независимо от того, являетесь ли вы профессиональным художником или только начинаете, тема Designer Artist представляет собой универсальную и профессиональную платформу, которая поможет вам достичь поставленных целей."
+
+#: inc/getstart/getstart.php:79
+msgid "Lite Theme Information"
+msgstr "Информация об облегченной теме"
+
+#: inc/getstart/getstart.php:70 inc/getstart/getstart.php:179
+msgid "Skip"
+msgstr "Пропустить"
+
+#: inc/getstart/getstart.php:46
+msgid "Woocommerce Product Addons"
+msgstr "Дополнения к товару Woocommerce"
+
+#: inc/getstart/getstart.php:45
+msgid "Setup With Gutunberg Block"
+msgstr "Установка с блоком Gutunberg"
+
+#: inc/getstart/getstart.php:43
+msgid "Setup With Customizer"
+msgstr "Установка с помощью Настройки темы"
+
+#: inc/getstart/getstart.php:25
+msgid "All our WordPress themes are modern, minimalist, 100% responsive, seo-friendly,feature-rich, and multipurpose that best suit designers, bloggers and other professionals who are working in the creative fields."
+msgstr "Все наши WordPress темы являются современными, минималистичными, 100% адаптивными, подготовлеными к seo, с богатым функционалом и многофункциональными, которые идеально подойдут дизайнерам, блоггерам и другим профессионалам, которые работают в области творчества."
+
+#: inc/getstart/getstart.php:24 inc/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Версия"
+
+#: inc/getstart/getstart.php:24
+msgid "Welcome to Designer Artist"
+msgstr "Добро пожаловать в Designer Artist"
+
+#: inc/getstart/getstart.php:5
+msgid "About Designer Artist"
+msgstr "О Designer Artist"
+
+#: functions.php:98 inc/customizer.php:2917
+msgid "UPGRADE PRO"
+msgstr "Обновиться до Pro"
+
+#: inc/customizer.php:2350
+msgid "Pre-Loader Border Color"
+msgstr "Цвет рамки предварительной загрузки"
+
+#: inc/customizer.php:2341
+msgid "Pre-Loader Background Color"
+msgstr "Цвет фона предварительной загрузки"
+
+#: inc/customizer.php:2321
+msgid "Here you can disable overall site animation effect"
+msgstr "Здесь можно отключить общий эффект анимации сайта"
+
+#: inc/customizer.php:2638
+msgid "Shop Page Sidebar Layout"
+msgstr "Макет области виджетов страницы магазина"
+
+#: inc/customizer.php:2404
+msgid "Show / Hide Scroll To Top"
+msgstr "Прокрутить вверх: показать/скрыть"
+
+#: inc/customizer.php:2394
+msgid "Show / Hide Sidebar"
+msgstr "Область виджетов: показать/скрыть"
+
+#: inc/customizer.php:2374
+msgid "Toggle Button Bg Color"
+msgstr "Цвет фона кнопки переключения"
+
+#: inc/customizer.php:2365
+msgid "Responsive Media"
+msgstr "Адаптивные медиа"
+
+#: inc/customizer.php:2294
+msgid "Here you can change the sidebar layout for pages. "
+msgstr "Здесь вы можете изменить макет области виджетов для страниц. "
+
+#: inc/customizer.php:2293
+msgid "Page Sidebar Layout"
+msgstr "Макет области виджетов страницы"
+
+#: inc/customizer.php:1380
+msgid "Grid Layout"
+msgstr "Макет сетки"
+
+#: inc/customizer.php:1377 inc/customizer.php:2299
+msgid "One Column"
+msgstr "Один столбец"
+
+#: inc/customizer.php:1376 inc/customizer.php:2298 inc/customizer.php:2642
+#: inc/customizer.php:2671
+msgid "Right Sidebar"
+msgstr "Правая область виджетов"
+
+#: inc/customizer.php:1375 inc/customizer.php:2297 inc/customizer.php:2641
+#: inc/customizer.php:2670
+msgid "Left Sidebar"
+msgstr "Левая область виджетов"
+
+#: inc/customizer.php:1372
+msgid "Here you can change the sidebar layout for posts. "
+msgstr "Здесь вы можете изменить макет области виджетов для записей. "
+
+#: inc/customizer.php:1371
+msgid "Post Sidebar Layout"
+msgstr "Макет области виджетов записи"
+
+#: inc/customizer.php:2279
+msgid "Here you can change the width layout of Website."
+msgstr "Тут вы можете изменить ширину макета сайта."
+
+#: inc/customizer.php:2278
+msgid "Width Layouts"
+msgstr "Ширина макета"
+
+#: inc/customizer.php:2268 inc/getstart/getstart.php:140
+#: inc/getstart/getstart.php:225 inc/getstart/getstart.php:287
+msgid "General Settings"
+msgstr "Общие настройки"
+
+#: inc/customizer.php:2261
+msgid "Others Settings"
+msgstr "Другие настройки"
+
+#: inc/customizer.php:2073
+msgid "Grid Layout Settings"
+msgstr "Настройки макета сетки"
+
+#: inc/customizer.php:1854
+msgid "Single Post Settings"
+msgstr "Настройки отдельной записи"
+
+#: inc/customizer.php:1829 inc/getstart/getstart.php:396
+msgid "3"
+msgstr "3"
+
+#: inc/customizer.php:1827
+msgid "Add Related Post Count"
+msgstr "Добавить число связанных записей"
+
+#: inc/customizer.php:1814
+msgid "Add Related Post Title"
+msgstr "Добавить заголовок связанных записей"
+
+#: inc/customizer.php:1816
+msgid "Related Post"
+msgstr "Связанная запись"
+
+#: inc/customizer.php:1789
+msgid "Related Posts Settings"
+msgstr "Настройки связанных записей"
+
+#: inc/customizer.php:1674 inc/customizer.php:1680 inc/customizer.php:2158
+#: inc/customizer.php:2164 inc/customizer.php:2186 inc/customizer.php:2192
+#: template-parts/content-audio.php:74 template-parts/content-gallery.php:63
+#: template-parts/content-image.php:61 template-parts/content-image.php:108
+#: template-parts/content-image.php:154 template-parts/content-video.php:74
+#: template-parts/content.php:61 template-parts/content.php:108
+#: template-parts/content.php:154 template-parts/grid-layout.php:56
+#: template-parts/related-posts.php:60
+msgid "Read More"
+msgstr "Читать далее"
+
+#: inc/customizer.php:299 inc/customizer.php:1782
+msgid "Lowercase"
+msgstr "Нижний регистр"
+
+#: inc/customizer.php:298 inc/customizer.php:1781
+msgid "Capitalize"
+msgstr "Заглавные буквы"
+
+#: inc/customizer.php:297 inc/customizer.php:1780
+msgid "Uppercase"
+msgstr "Верхний регистр"
+
+#: inc/customizer.php:1778
+msgid "Button Text Transform"
+msgstr "Преобразование текста кнопки"
+
+#: inc/customizer.php:1692
+msgid "Button Font Size"
+msgstr "Размер шрифта кнопки"
+
+#: inc/customizer.php:1714
+msgid "Button Border Radius"
+msgstr "Радиус рамки кнопки"
+
+#: inc/customizer.php:1743
+msgid "Padding Left Right"
+msgstr "Внутренний отступ слева и справа"
+
+#: inc/customizer.php:1729
+msgid "Padding Top Bottom"
+msgstr "Внутренний отступ сверху и снизу"
+
+#: inc/customizer.php:1663
+msgid "Button Settings"
+msgstr "Настройки кнопки"
+
+#: inc/customizer.php:1619 inc/customizer.php:2223
+msgid "No Content"
+msgstr "Без содержимого"
+
+#: inc/customizer.php:1618 inc/customizer.php:2222
+msgid "Excerpt"
+msgstr "Отрывок"
+
+#: inc/customizer.php:1617 inc/customizer.php:2221
+msgid "Content"
+msgstr "Содержимое"
+
+#: inc/customizer.php:1614
+msgid "Post Content"
+msgstr "Содержимое записи"
+
+#: inc/customizer.php:1602 inc/customizer.php:1997 inc/customizer.php:2152
+msgid "Add the seperator for meta box. Example: \"|\", \"/\", etc."
+msgstr "Добавьте разделитель для мета-поля. Пример: \"|\", \"/\", и т. д."
+
+#: inc/customizer.php:1601 inc/customizer.php:1996 inc/customizer.php:2151
+msgid "Add Meta Separator"
+msgstr "Добавить разделитель мета"
+
+#: inc/customizer.php:1585
+msgid "Excerpt length"
+msgstr "Длина отрывка"
+
+#: inc/customizer.php:1357
+msgid "Blog Post Layouts"
+msgstr "Макеты записи блога"
+
+#: inc/customizer.php:1346
+msgid "Post Settings"
+msgstr "Настройки записи"
+
+#: inc/customizer.php:1339
+msgid "Blog Post Settings"
+msgstr "Настройки записи блога"
+
+#: inc/customizer.php:1328
+msgid "Scroll To Top"
+msgstr "Прокрутка вверх"
+
+#: inc/customizer.php:1226
+msgid "Show / Hide Scroll to Top"
+msgstr "Прокрутить вверх: показать/скрыть"
+
+#: inc/customizer.php:1211
+msgid "Copyright Alignment"
+msgstr "Выравнивание авторских прав"
+
+#: inc/customizer.php:1177
+msgid "Copyright 2021, ....."
+msgstr "Copyright 2021, ....."
+
+#: inc/customizer.php:1175
+msgid "Copyright Text"
+msgstr "Текст авторского права"
+
+#: inc/customizer.php:101 inc/customizer.php:260 inc/customizer.php:1119
+#: inc/customizer.php:1257 inc/customizer.php:1271 inc/customizer.php:1285
+#: inc/customizer.php:1299 inc/customizer.php:1547 inc/customizer.php:1561
+#: inc/customizer.php:1695 inc/customizer.php:1732 inc/customizer.php:1746
+#: inc/customizer.php:1760 inc/customizer.php:2529 inc/customizer.php:2543
+#: inc/customizer.php:2557 inc/customizer.php:2571 inc/customizer.php:2684
+#: inc/customizer.php:2698 inc/customizer.php:2746 inc/customizer.php:2760
+#: inc/customizer.php:2805 inc/logo/logo-resizer.php:43
+#: inc/logo/logo-resizer.php:56 inc/logo/logo-resizer.php:69
+#: inc/logo/logo-resizer.php:83 inc/logo/logo-resizer.php:110
+#: inc/logo/logo-resizer.php:146
+msgid "10px"
+msgstr "10px"
+
+#: inc/customizer.php:99 inc/customizer.php:258 inc/customizer.php:1117
+#: inc/customizer.php:1255 inc/customizer.php:1269 inc/customizer.php:1297
+#: inc/customizer.php:1545 inc/customizer.php:1559 inc/customizer.php:1693
+#: inc/customizer.php:1730 inc/customizer.php:1744 inc/customizer.php:1758
+#: inc/customizer.php:2527 inc/customizer.php:2541 inc/customizer.php:2555
+#: inc/customizer.php:2569 inc/customizer.php:2682 inc/customizer.php:2696
+#: inc/customizer.php:2744 inc/customizer.php:2758 inc/customizer.php:2803
+#: inc/logo/logo-resizer.php:41 inc/logo/logo-resizer.php:54
+#: inc/logo/logo-resizer.php:67 inc/logo/logo-resizer.php:81
+#: inc/logo/logo-resizer.php:108 inc/logo/logo-resizer.php:144
+msgid "Enter a value in pixels. Example:20px"
+msgstr "Введите значение в пикселях. Пример: 20px"
+
+#: inc/customizer.php:1116
+msgid "Footer Top Bottom Padding"
+msgstr "Внутренний отступ сверху и снизу подвала"
+
+#: inc/customizer.php:1101
+msgid "Footer Widget Content"
+msgstr "Содержимое виджета подвала"
+
+#: inc/customizer.php:75 inc/customizer.php:1056 inc/customizer.php:1090
+#: inc/customizer.php:1106 inc/customizer.php:2793
+msgid "Right"
+msgstr "Справа"
+
+#: inc/customizer.php:74 inc/customizer.php:1055 inc/customizer.php:1089
+#: inc/customizer.php:1105
+msgid "Center"
+msgstr "По центру"
+
+#: inc/customizer.php:73 inc/customizer.php:1054 inc/customizer.php:1088
+#: inc/customizer.php:1104 inc/customizer.php:2792
+msgid "Left"
+msgstr "Слева"
+
+#: inc/customizer.php:1085
+msgid "Footer Widget Heading"
+msgstr "Заголовок виджета подвала"
+
+#: inc/customizer.php:1037
+msgid "Footer Background Image"
+msgstr "Фоновое изображение подвала"
+
+#: inc/customizer.php:1028
+msgid "Footer Background Color"
+msgstr "Цвет фона подвала"
+
+#: inc/customizer.php:1008
+msgid "Footer Settings"
+msgstr "Настройки подвала"
+
+#: inc/customizer.php:792
+msgid "Select Category to display Products"
+msgstr "Выберите категорию для отображения товара"
+
+#: inc/customizer.php:755
+msgid "Add Small Text"
+msgstr "Добавить небольшой текст"
+
+#: inc/customizer.php:742
+msgid "Add Heading Text"
+msgstr "Добавить текст заголовка"
+
+#: inc/customizer.php:740 inc/customizer.php:753 inc/customizer.php:2460
+#: inc/customizer.php:2507
+msgid "Add Text"
+msgstr "Добавить текст"
+
+#: inc/customizer.php:731
+msgid "Show / Hide Product Section"
+msgstr "Раздел товара: показать/скрыть"
+
+#: inc/customizer.php:713
+msgid "Products Section"
+msgstr "Раздел Товары"
+
+#: inc/customizer.php:513
+msgid "500px"
+msgstr "500px"
+
+#: inc/customizer.php:511
+msgid "Specify the slider height (px)."
+msgstr "Укажите высоту слайдера (px)."
+
+#: inc/customizer.php:510
+msgid "Slider Height"
+msgstr "Высота слайдера"
+
+#: inc/customizer.php:498
+msgid "Slider Transition Speed"
+msgstr "Скорость анимации (мс)"
+
+#: inc/customizer.php:411
+msgid "Slider image size (1400 x 550)"
+msgstr "Размер изображения слайдера (1400 x 550)"
+
+#: inc/customizer.php:410
+msgid "Select Slider Page"
+msgstr "Выберите страницу слайдера"
+
+#: inc/customizer.php:368 inc/customizer.php:2384
+msgid "Show / Hide Slider"
+msgstr "Слайдер: показать/скрыть"
+
+#: inc/customizer.php:357 inc/getstart/getstart.php:122
+#: inc/getstart/getstart.php:385
+msgid "Slider Settings"
+msgstr "Настройки слайдера"
+
+#: inc/customizer.php:351
+msgid "Sub Menus Hover Color"
+msgstr "Цвет подменю при наведении"
+
+#: inc/customizer.php:342
+msgid "Sub Menus Color"
+msgstr "Цвет подменю"
+
+#: inc/customizer.php:333
+msgid "Menus Hover Color"
+msgstr "Цвет меню при наведении"
+
+#: inc/customizer.php:324
+msgid "Menus Color"
+msgstr "Цвет меню"
+
+#: inc/customizer.php:216
+msgid "Show / Hide Search"
+msgstr "Поиск: показать/скрыть"
+
+#: inc/customizer.php:204
+msgid "www.example-info.com"
+msgstr "www.example-info.com"
+
+#: inc/customizer.php:202
+msgid "Add Button Link"
+msgstr "Добавить ссылку на кнопку"
+
+#: inc/customizer.php:178
+msgid "Cart"
+msgstr "Корзина"
+
+#: inc/customizer.php:176 inc/customizer.php:1678 inc/customizer.php:2162
+#: inc/customizer.php:2190 inc/customizer.php:2473
+msgid "Add Button Text"
+msgstr "Добавить текст кнопки"
+
+#: inc/customizer.php:151
+msgid "1234567890"
+msgstr "1234567890"
+
+#: inc/customizer.php:149
+msgid "Add Phone Number"
+msgstr "Добавить номер телефона"
+
+#: inc/customizer.php:125
+msgid "example@gmail.com"
+msgstr "example@gmail.com"
+
+#: inc/customizer.php:123
+msgid "Email Address"
+msgstr "Email-адрес"
+
+#: inc/customizer.php:114
+msgid "Show / Hide Topbar"
+msgstr "Верхняя панель: показать/скрыть"
+
+#: inc/customizer.php:46
+msgid "Header Section"
+msgstr "Раздел заголовка"
+
+#: inc/customizer.php:39
+msgid "Homepage Settings"
+msgstr "Настройки главной страницы"
+
+#: header.php:30
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: functions.php:411
+msgid "https://wordpress.org/support/theme/designer-artist/reviews/"
+msgstr "https://wordpress.org/support/theme/designer-artist/reviews/"
+
+#: functions.php:410
+msgid "https://wordpress.org/support/theme/designer-artist/"
+msgstr "https://wordpress.org/support/theme/designer-artist/"
+
+#: functions.php:409
+msgid "https://preview.vwthemesdemo.com/docs/free-designer-portfolio/"
+msgstr "https://preview.vwthemesdemo.com/docs/free-designer-portfolio/"
+
+#: functions.php:186
+msgid "Appears on single product page"
+msgstr "Появиться на странице отдельного товара"
+
+#: functions.php:185
+msgid "Single Product Sidebar"
+msgstr "Область виджетов отдельного товара"
+
+#: functions.php:176
+msgid "Appears on shop page"
+msgstr "Появиться на странице магазина"
+
+#: functions.php:175
+msgid "Shop Page Sidebar"
+msgstr "Область виджетов страницы магазина"
+
+#: functions.php:166
+msgid "Appears on header"
+msgstr "Появится в заголовке"
+
+#: functions.php:165
+msgid "Social Widget"
+msgstr "Виджет соцсетей"
+
+#: functions.php:156
+msgid "Appears on footer 4"
+msgstr "Появится в подвале 4"
+
+#: functions.php:155
+msgid "Footer Navigation 4"
+msgstr "Навигация в подвале 4"
+
+#: functions.php:146
+msgid "Appears on footer 3"
+msgstr "Появится в подвале 3"
+
+#: functions.php:145
+msgid "Footer Navigation 3"
+msgstr "Навигация в подвале 3"
+
+#: functions.php:136
+msgid "Appears on footer 2"
+msgstr "Появится в подвале 2"
+
+#: functions.php:135
+msgid "Footer Navigation 2"
+msgstr "Навигация в подвале 2"
+
+#: functions.php:126
+msgid "Appears on footer 1"
+msgstr "Появится в подвале 1"
+
+#: functions.php:125
+msgid "Footer Navigation 1"
+msgstr "Навигация в подвале 1"
+
+#: functions.php:116 functions.php:206
+msgid "Appears on page sidebar"
+msgstr "Появится в области виджетов страницы"
+
+#: functions.php:115
+msgid "Page Sidebar"
+msgstr "Область виджетов страницы"
+
+#: functions.php:106
+msgid "Appears on blog page sidebar"
+msgstr "Появится в области виджетов страницы блога"
+
+#: functions.php:105
+msgid "Blog Sidebar"
+msgstr "Область виджетов блога"
+
+#: functions.php:96
+msgid "GET STARTED"
+msgstr "НАЧАЛО РАБОТЫ"
+
+#: functions.php:95
+msgid "Thank you for choosing Designer Artist. Would like to have you on our Welcome page so that you can reap all the benefits of our Designer Artist."
+msgstr "Благодарим вас за выбор Designer Artist. Хотел бы видеть вас на нашей приветственной странице, чтобы вы могли воспользоваться всеми преимуществами нашей темы Designer Artist."
+
+#: functions.php:58
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: footer.php:68 footer.php:70 footer.php:72
+msgid "Scroll Up"
+msgstr "Прокрутить вверх"
+
+#: footer.php:13
+msgid "Footer"
+msgstr "Подвал"
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:30
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к &ldquo;%s&rdquo;"
+
+#: archive.php:85 image.php:34 image.php:61 image.php:87 image.php:181
+#: image.php:208 search.php:80 single.php:39 single.php:71 single.php:102
+#: single.php:201 single.php:233
+msgid "Page"
+msgstr "Страница"
+
+#: archive.php:84 image.php:33 image.php:60 image.php:86 image.php:180
+#: image.php:207 search.php:79 single.php:38 single.php:70 single.php:101
+#: single.php:200 single.php:232
+msgid "Next page"
+msgstr "Следующая страница"
+
+#: archive.php:83 image.php:32 image.php:59 image.php:85 image.php:179
+#: image.php:206 search.php:78 single.php:37 single.php:69 single.php:100
+#: single.php:199 single.php:231
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: 404.php:14 inc/customizer.php:2462
+msgid "Looks like you have taken a wrong turn, Dont worry, it happens to the best of us."
+msgstr "Похоже, Вы свернули не туда, не волнуйтесь, это случается с лучшими из нас."
+
+#: 404.php:13 inc/customizer.php:2448
+msgid "404 Not Found"
+msgstr "Не найдено 404"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.vwthemes.com/"
+msgstr "https://www.vwthemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "VWThemes"
+msgstr "VWThemes"
+
+#. Theme URI of the theme
+#: functions.php:418
+#, gp-priority: low
+msgid "https://www.vwthemes.com/themes/free-artist-wordpress-theme/"
+msgstr "https://www.vwthemes.com/themes/free-artist-wordpress-theme/"
